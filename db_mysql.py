@@ -100,6 +100,16 @@ class MysqlClient(object):
         # finally:
             # self._db.close()
 
+    def insert_companyinfo(self,id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime):
+        sql=f"""REPLACE INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}', '{company_full_name}','{company_location}','{BusinessRegisterContentItem}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
+        try:
+            self._cursor.execute(sql)
+            self._db.commit()
+            return (company_name,'插入成功!')
+        except Exception as e:
+            print(e.args)
+            self._db.rollback()
+
     def insert_similarweb_appinfo(self,Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data):
         sql="""insert into SimilarWeb (Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data,update_time) VALUES ('{}', '{}', '{}','{}','{}', '{}','{}','{}','{}', '{}', '{}','{}','{}', '{}','{}','{}','{}', '{}', '{}','{}','{}', '{}','{}','{}')""".format(Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data,time.strftime('%Y-%m-%d %H:%M:%S'))
         try:

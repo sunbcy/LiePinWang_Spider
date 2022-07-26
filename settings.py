@@ -6,7 +6,7 @@ MySQL_USER = 'root'
 MySQL_PASSWORD = '12345678'
 
 # 连接的数据库名字
-MySQL_DATABASE = 'Liepin'
+MySQL_DATABASE = 'LiePinInfo'
 
 # 数据库采用的字符集
 MySQL_CHARSET = 'utf8mb4'

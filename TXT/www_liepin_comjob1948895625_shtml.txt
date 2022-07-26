@@ -18,14 +18,15 @@
     <link rel="preconnect" href="//image0.lietou-static.com" />
     <link rel="icon" href="//concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico" type="image/x-icon"/>
     <script crossorigin="anonymous"  src="//concat.lietou-static.com/fe-www-pc/v6/static/js/jquery-1.7.1.min.99a28ce2.js"></script>
-    <script src="//s.lietou-static.com/fe-lib-pc/v5/femonitor/0.9.0/femonitor.min.8503c6bc.js"></script>
-    <script src="//s.lietou-static.com/fe-www-pc/v6/static/js/es6-proxy-polyfill.d1fb1f99.js"></script>
+    <script src="//concat.lietou-static.com/fe-lib-pc/v5/femonitor/0.9.0/femonitor.min.8503c6bc.js"></script>
+    <script src="//concat.lietou-static.com/fe-www-pc/v6/static/js/es6-proxy-polyfill.87701cc7.js"></script>
     <!--[if lte IE 9]>
     <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/html5shiv.js"></script>
     <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/unpack_files/console-polyfill.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-www-pc/v6/css/common.0869b241.css"/>
     <script>
-        /*@cc_on document.write("<script src=\"//s.lietou-static.com/fe-lib-pc/v5/ietip/index.download.qa.38e4a2d5.js\"><\/script>")@*/
+        /*@cc_on document.write("<script src=\"//concat.lietou-static.com/fe-lib-pc/v5/ietip/index.download.qa.38e4a2d5.js\"><\/script>")@*/
     </script>
 
     <script type="text/javascript">
@@ -53,24 +54,12 @@
         }
 
     </script>
-    <!-- 百度因子js-非校园职位 -->
-    <script type="application/ld+json">
-        {
-            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
-            "appid": "1586030202028057",
-            "@id": "https://www.liepin.com/job/1948895625.shtml",
-            "title": "【运营督导招聘】_上海豫园珠宝时尚集团有限公司招聘信息-猎聘",
-            "description": "【上海豫园珠宝时尚集团有限公司招聘信息】诚聘【运营督导】年薪8-12k·13薪,上海豫园珠宝时尚集团有限公司公司规模1000-2000人,经验:经验不限,学历: ,猎聘祝您顺利获得上海豫园珠宝时尚集团有限公司运营督导职位.",
-            "pubDate": "2022-04-13T23:35:56",
-            "upDate": "2022-04-13T23:35:56"
-        }
-    </script>
-    <link rel="stylesheet" href="//s.lietou-static.com/fe-www-pc/v6/css/pages/job.36b7f137.css"/>
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-www-pc/v6/css/pages/job.7caea5b3.css"/>
 </head>
 <body>
 <!-- header @荣进 -->
 
-    <section id='lp-seo-header-container'><header id="framework-pc-header-container"><nav class="header-content-box"><a id="header-logo-box" href="https://www.liepin.com" title="猎聘"><img src="https://download.lietou-static.com/img/610bb5592a02d60fe2b896b202u.png" title="猎聘" alt=""/></a><a id="header-city-box" href="https://www.liepin.com/citylist/" title="城市切换"><div class="header-city-box"><svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><path d="M5 .25a3.65 3.65 0 012.646 1.152 4.033 4.033 0 011.104 2.79c0 .531-.073.98-.236 1.409a4.093 4.093 0 01-.747 1.228l-.179.2-2.326 2.528L2.428 7.04a7.282 7.282 0 01-.36-.413 3.863 3.863 0 01-.475-.785 4.076 4.076 0 01-.343-1.649c0-1.088.422-2.075 1.104-2.79A3.65 3.65 0 015 .25zm0 1.5a2.24 2.24 0 00-1.59.66 2.243 2.243 0 000 3.18 2.244 2.244 0 003.179 0A2.246 2.246 0 005 1.75z" fill="#FFF" stroke="#FFF" stroke-width="0.5" opacity="0.4"></path></svg><span>全国</span><svg width="6" height="3" viewBox="0 0 6 3" xmlns="http://www.w3.org/2000/svg"><path d="M3.283 2.717L5.317.683A.4.4 0 005.034 0H.966a.4.4 0 00-.283.683l2.034 2.034a.4.4 0 00.566 0z" fill="#FFF" fill-rule="evenodd"></path></svg></div></a><ul class="header-nav-menu"><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-home" href="https://www.liepin.com">首页</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-job" href="https://www.liepin.com/zhaopin/?init=1">职位</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-campus" href="https://www.liepin.com/campus/?t=1" class="ant-dropdown-trigger"><span>校园</span></a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-community" href="https://blade.liepin.com">社区</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-template" href="https://www.liepin.com/resume/template/home/">简历模板</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-optimization" href="https://vas.liepin.com/view-intro?utm_content=pcjuhexiala&amp;imscid=R000014437" target="_blank" class="ant-dropdown-trigger"><span>简历优化</span></a></li><li class="header-menu-item header-nav-menu-item download-app-item"><span id="header-nav-menu-download-app">猎聘APP</span><div id="fix-header-download-app-modal"><img src="https://download.lietou-static.com/img/614157155d455b005d25211208u.png" alt=""/></div></li></ul><div class="header-quick-menu-box"><ul class="header-quick-menu-not-login"><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-hunter" target="_blank" href="https://h.liepin.com/#sfrom=click-pc_homepage-front_navigation-hunter_new">我是猎头</a></li><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-recruiter" target="_blank" href="https://passport.liepin.com/logout?rdurl=https://lpt.liepin.com/user/login#sfrom=click-pc_homepage-front_navigation-ecomphr_new">我是招聘方</a><svg width="28" height="14" viewBox="0 0 28 14" xmlns="http://www.w3.org/2000/svg" class="recruiter-min-logo"><g fill="none" fill-rule="evenodd"><path d="M4 0h23a1 1 0 011 1v9a4 4 0 01-4 4H1a1 1 0 01-1-1V4a4 4 0 014-4z" fill="#FF6400" fill-rule="nonzero"></path><text font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFF"><tspan x="2" y="10.5">NEW</tspan></text></g></svg></li><li class="header-menu-item header-quick-menu-not-login-item"><span id="header-quick-menu-login">登录/注册</span></li></ul></div></nav></header></section>
+    <section id='lp-seo-header-container'><header id="framework-pc-header-container"><nav class="header-content-box"><a id="header-logo-box" href="https://www.liepin.com" title="猎聘"><img src="" title="猎聘" alt=""/></a><a id="header-city-box" href="https://www.liepin.com/citylist/" title="城市切换"><div class="header-city-box"><svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><path d="M5 .25a3.65 3.65 0 012.646 1.152 4.033 4.033 0 011.104 2.79c0 .531-.073.98-.236 1.409a4.093 4.093 0 01-.747 1.228l-.179.2-2.326 2.528L2.428 7.04a7.282 7.282 0 01-.36-.413 3.863 3.863 0 01-.475-.785 4.076 4.076 0 01-.343-1.649c0-1.088.422-2.075 1.104-2.79A3.65 3.65 0 015 .25zm0 1.5a2.24 2.24 0 00-1.59.66 2.243 2.243 0 000 3.18 2.244 2.244 0 003.179 0A2.246 2.246 0 005 1.75z" fill="#FFF" stroke="#FFF" stroke-width="0.5" opacity="0.4"></path></svg><span>全国</span><svg width="6" height="3" viewBox="0 0 6 3" xmlns="http://www.w3.org/2000/svg"><path d="M3.283 2.717L5.317.683A.4.4 0 005.034 0H.966a.4.4 0 00-.283.683l2.034 2.034a.4.4 0 00.566 0z" fill="#FFF" fill-rule="evenodd"></path></svg></div></a><ul class="header-nav-menu"><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-home" href="https://www.liepin.com">首页</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-job" href="https://www.liepin.com/zhaopin/?init=1">职位</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-campus" href="https://www.liepin.com/campus/?t=1" class="ant-dropdown-trigger"><span>校园</span></a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-community" href="https://blade.liepin.com">社区</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-template" href="https://www.liepin.com/resume/template/home/">简历模板</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-optimization" href="https://vas.liepin.com/view-intro?utm_content=pcjuhexiala&amp;imscid=R000014437" target="_blank" class="ant-dropdown-trigger"><span>简历优化</span></a></li><li class="header-menu-item header-nav-menu-item download-app-item"><span id="header-nav-menu-download-app">猎聘APP</span><div id="fix-header-download-app-modal"><img src="" alt=""/></div></li></ul><div class="header-quick-menu-box"><ul class="header-quick-menu-not-login"><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-hunter" target="_blank" href="https://h.liepin.com/#sfrom=click-pc_homepage-front_navigation-hunter_new">我是猎头</a></li><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-recruiter" target="_blank" data-selector="c-logout" data-backurl="https://lpt.liepin.com/user/login#sfrom=click-pc_homepage-front_navigation-ecomphr_new" href="javascript:void(0);">我是招聘方</a><svg width="28" height="14" viewBox="0 0 28 14" xmlns="http://www.w3.org/2000/svg" class="recruiter-min-logo"><g fill="none" fill-rule="evenodd"><path d="M4 0h23a1 1 0 011 1v9a4 4 0 01-4 4H1a1 1 0 01-1-1V4a4 4 0 014-4z" fill="#FF6400" fill-rule="nonzero"></path><text font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFF"><tspan x="2" y="10.5">NEW</tspan></text></g></svg></li><li class="header-menu-item header-quick-menu-not-login-item"><span id="header-quick-menu-login">登录/注册</span></li></ul></div></nav></header></section>
 
 
 <!-- 侧边栏 -->
@@ -173,7 +162,7 @@
                     <div class="name-box">
                         <span class="name">陶先生</span>
                         
-                        <span class="online off">16小时前在线</span>
+                        <span class="online off">1天前在线</span>
                         <!--                        <span class="offline" th:if="${!jobDetail4PCDto.imStatus}"></span>-->
                         <span class="certification">已认证</span>
                         
@@ -249,9 +238,9 @@
         <section class="company-intro-container" data-selector="company-intro-container">
             <h2>公司简介</h2>
             <div class="paragraph-box">
-                <div class="inner ellipsis-3">    这是一家历史悠久的企业，旗下有为几代中国人传承好运的&quot;老庙黄金&quot;和打造与爱共鸣的&quot;亚一珠宝&quot;。这是一家崭新的企业，2013年两大品牌创新整合共同打造中国黄金珠宝行业的旗舰品牌——上海豫园黄金珠宝集团。
-    目前，集团已形成“黄金交易、生产加工、渠道零售、产业投资”四大业务引擎，并矢志向“以品牌为核心的综合推广能力”与“有产业深度的行业投资能力”双轮驱动的中国行业第一的集团迈进。
-    集团旗下两大品牌在全国各地覆盖的营销网点已有1800余家，其中上海连锁门店及专柜达180余家。在黄金珠宝行业，集团的领先地位已确立无疑。
+                <div class="inner ellipsis-3">    这是一家历史悠久的企业，旗下有为几代中国人传承好运的&quot;老庙黄金&quot;和打造与爱共鸣的&quot;亚一珠宝&quot;。这是一家崭新的企业，2013年两大品牌创新整合共同打造中国黄金珠宝行业的旗舰品牌——上海豫园黄金珠宝集团。
+    目前，集团已形成“黄金交易、生产加工、渠道零售、产业投资”四大业务引擎，并矢志向“以品牌为核心的综合推广能力”与“有产业深度的行业投资能力”双轮驱动的中国行业第一的集团迈进。
+    集团旗下两大品牌在全国各地覆盖的营销网点已有1800余家，其中上海连锁门店及专柜达180余家。在黄金珠宝行业，集团的领先地位已确立无疑。
     以人为本，共赢发展。在追求经济发展的同时，集团不忘与员工、合作伙伴共同分享自身的发展，提供学习与发展的平台，充分展现自身的潜力，实现共同成长！</div>
                 <a class="see-all" data-selector="see-all" href="javascript:;">查看全部</a>
             </div>
@@ -268,7 +257,7 @@
                                 class="lighter">登录查看</span></a>
                     </div>
                 </div>
-                <img src="//s.lietou-static.com/fe-www-pc/v6/static/images/job/job-lens.0f6a2ec6.png" alt="lens"/>
+                <img src="//concat.lietou-static.com/fe-www-pc/v6/static/images/job/job-lens.0f6a2ec6.png" alt="lens"/>
             </div>
             <div class="job-lens-actions">
                 <a class="btn-reg" data-selector="btn-reg" onclick="tlog=window.tlog||[];tlog.push('c:C000012397')"
@@ -307,7 +296,7 @@
             <ul class="assistor-list">
                 <li>
                     <a href="https://vas.liepin.com/view-intro?utm_content=pcicon&imscid=R000014318" target="_blank">
-                        <img src="//s.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/resume.c40bda21.png" alt="icon"/>
+                        <img src="//concat.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/resume.c40bda21.png" alt="icon"/>
                         <div>
                             <p>简历优化<em class="text-icon icon-up"></em></p>
                             <p>从一份好简历开始</p>
@@ -317,7 +306,7 @@
                 <li class="split"></li>
                 <li>
                     <a href="https://vas.liepin.com/view-sendforyou?imscid=R000147488" target="_blank">
-                        <img src="//s.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/deliver.51d90fbf.png"
+                        <img src="//concat.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/deliver.51d90fbf.png"
                              alt="icon"/>
                         <div>
                             <p>简历代投<em class="text-icon icon-up"></em></p>
@@ -328,7 +317,7 @@
                 <li class="split"></li>
                 <li class="new">
                     <a href="https://wow.liepin.com/t1005823/5fda3604.html?imscid=R000277110" target="_blank">
-                        <img src="//s.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/consultant.d3859f5e.png"
+                        <img src="//concat.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/consultant.d3859f5e.png"
                              alt="icon"/>
                         <div>
                             <p>求职咨询<em class="text-icon icon-up"></em></p>
@@ -340,7 +329,7 @@
                 <li>
                     <a href="https://vas.liepin.com/view-coachintro/?utm_source=msjlpc&imscid=R000014324"
                        target="_blank">
-                        <img src="//s.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/interview.724c38ad.png"
+                        <img src="//concat.lietou-static.com/fe-www-pc/v6/static/images/job-assistor/interview.724c38ad.png"
                              alt="icon"/>
                         <div>
                             <p>面试辅导<em class="text-icon icon-up"></em></p>
@@ -357,7 +346,7 @@
                 <!-- 职位卡片-SEO模板 -->
                 <div class="job-list-item">
                     <div
-                            data-info="%7B%22job_id%22%3A33668099%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            data-info="%7B%22job_id%22%3A49429305%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
                             class="job-card-pc-container seo-job-card-action-box"
                     >
                         <div class="job-card-left-box">
@@ -365,7 +354,461 @@
                                 <!-- href需拼上dataPromId数据 -->
                                 <a data-nick="job-detail-job-info"
                                    target="_blank"
-                                   href="https://www.liepin.com/job/1933668099.shtml?d_headId=oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF&amp;d_sfrom=recom_jd"
+                                   href="https://www.liepin.com/job/1949429305.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="零售运营经理（加盟支持）" class="ellipsis-1">零售运营经理（加盟支持）</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-天桥区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">7-10k·14薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                            <span class="labels-tag">区域销售</span>
+                                        
+                                            <span class="labels-tag">渠道销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/7859765/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/60eced3fdb48d568f441989a03u.png"
+                                                        alt="九牧王男装"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">九牧王男装</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>已上市</span>
+                                                <span>5000-10000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">李女士</div>
+                                    <div class="recruiter-title ellipsis-1">HRBP</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;8bacc59df15c448fb0a80aa4d7b2907f&quot;,&quot;jobId&quot;:&quot;49429305&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;8bacc59df15c448fb0a80aa4d7b2907f&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98648dbe6273dcf8515508u.jpg&quot;,&quot;recruiterName&quot;:&quot;李女士&quot;,&quot;userId&quot;:&quot;8bacc59df15c448fb0a80aa4d7b2907f&quot;,&quot;imId&quot;:&quot;e4c9179e001cf79e8fa263ed17de85b1&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A43078637%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1943078637.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="营运督导" class="ellipsis-1">营运督导</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">7-10k·13薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">管理经验</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/12615115/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/60dc2ff4eccad2112a60885105u.png"
+                                                        alt="北京万皮思食品科技有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">北京万皮思食品科技有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>餐饮品牌</span>
+                                                <span>A轮</span>
+                                                <span>100-499人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">孙女士</div>
+                                    <div class="recruiter-title ellipsis-1">hrbp经理</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;4b0078253fbf8aad75a12b3bfd586008&quot;,&quot;jobId&quot;:&quot;43078637&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;4b0078253fbf8aad75a12b3bfd586008&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9863f6d1ab58476f246a08u.jpg&quot;,&quot;recruiterName&quot;:&quot;孙女士&quot;,&quot;userId&quot;:&quot;4b0078253fbf8aad75a12b3bfd586008&quot;,&quot;imId&quot;:&quot;4ac9dc80cdf88fa1bf1edd1f3249a09c&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A41445691%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1941445691.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="Dior 专柜柜长 - 济南" class="ellipsis-1">Dior 专柜柜长 - 济南</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">10-15k</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">日化用品</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/8741618/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfffaf974719da073f1031c03u.png"
+                                                        alt="路威酩轩香水化妆品(上海)有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">路威酩轩香水化妆品(上海)有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>批发零售</span>
+                                                <span>融资未公开</span>
+                                                <span>2000-5000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f986c79c7cc70efbf36c808u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">陈先生</div>
+                                    <div class="recruiter-title ellipsis-1">Assistant HR Manager</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;7bddff2fb513f7d393bb8809b4444a01&quot;,&quot;jobId&quot;:&quot;41445691&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;7bddff2fb513f7d393bb8809b4444a01&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986c79c7cc70efbf36c808u.jpg&quot;,&quot;recruiterName&quot;:&quot;陈先生&quot;,&quot;userId&quot;:&quot;7bddff2fb513f7d393bb8809b4444a01&quot;,&quot;imId&quot;:&quot;3f2b5756e7cd50ee01ab80e4a8b96567&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A48298781%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1948298781.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="巡店督导" class="ellipsis-1">巡店督导</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">7-12k·13薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">餐饮行业</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/12184285/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/6239bab37150aa52179b708b03u.png"
+                                                        alt="小米姑娘"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">小米姑娘</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>餐饮服务</span>
+                                                <span>融资未公开</span>
+                                                <span>500-999人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f98648dbe6273dcf8515508u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">白女士</div>
+                                    <div class="recruiter-title ellipsis-1"></div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;0227ee392d47fbc8852289d32b4257ed&quot;,&quot;jobId&quot;:&quot;48298781&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;0227ee392d47fbc8852289d32b4257ed&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98648dbe6273dcf8515508u.jpg&quot;,&quot;recruiterName&quot;:&quot;白女士&quot;,&quot;userId&quot;:&quot;0227ee392d47fbc8852289d32b4257ed&quot;,&quot;imId&quot;:&quot;cb4cbeb5f4b18be0bed9c63c695716f7&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A46921331%2C%22job_kind%22%3A2%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1946921331.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="驻店督导" class="ellipsis-1">驻店督导</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">10-20k</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">服装服饰</span>
+                                        
+                                            <span class="labels-tag">商品管理</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                            <span class="labels-tag">区域销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/853854/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe9e7c74719d2aa34b958c03a.png"
+                                                        alt="玛丝菲尔时装"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">玛丝菲尔时装</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>融资未公开</span>
+                                                <span>5000-10000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">王女士</div>
+                                    <div class="recruiter-title ellipsis-1">组织发展经理</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;439856aa5ba4bf1feed21f2f2ea10356&quot;,&quot;jobId&quot;:&quot;46921331&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;439856aa5ba4bf1feed21f2f2ea10356&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9863f6d1ab58476f246a08u.jpg&quot;,&quot;recruiterName&quot;:&quot;王女士&quot;,&quot;userId&quot;:&quot;439856aa5ba4bf1feed21f2f2ea10356&quot;,&quot;imId&quot;:&quot;4986b50c6eec4b21a9f0273dd33fa30b&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A33668099%2C%22job_kind%22%3A2%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1933668099.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
                                 >
                                     <div class="job-detail-header-box">
                                         <div class="job-title-box">
@@ -453,7 +896,7 @@
                 </div>
                 <div class="job-list-item">
                     <div
-                            data-info="%7B%22job_id%22%3A48391183%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            data-info="%7B%22job_id%22%3A30311319%2C%22job_kind%22%3A2%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
                             class="job-card-pc-container seo-job-card-action-box"
                     >
                         <div class="job-card-left-box">
@@ -461,11 +904,99 @@
                                 <!-- href需拼上dataPromId数据 -->
                                 <a data-nick="job-detail-job-info"
                                    target="_blank"
-                                   href="https://www.liepin.com/job/1948391183.shtml?d_headId=oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF&amp;d_sfrom=recom_jd"
+                                   href="https://www.liepin.com/job/1930311319.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
                                 >
                                     <div class="job-detail-header-box">
                                         <div class="job-title-box">
-                                            <div title="零售督导运营" class="ellipsis-1">零售督导运营</div>
+                                            <div title="济南贵和轻奢女装品牌店长" class="ellipsis-1">济南贵和轻奢女装品牌店长</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">11-15k·13薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">督导</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/10062627/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5ee83f9ff1b6f06970789e0e01u.jpg"
+                                                        alt="衣臻时装有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">衣臻时装有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>生活服务</span>
+                                                <span>融资未公开</span>
+                                                <span>100-499人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f986c79c7cc70efbf36c808u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">王先生</div>
+                                    <div class="recruiter-title ellipsis-1">人力资源项目经理</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;4f28ae8e14335ce4bae2031a43c5bc01&quot;,&quot;jobId&quot;:&quot;30311319&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;4f28ae8e14335ce4bae2031a43c5bc01&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986c79c7cc70efbf36c808u.jpg&quot;,&quot;recruiterName&quot;:&quot;王先生&quot;,&quot;userId&quot;:&quot;4f28ae8e14335ce4bae2031a43c5bc01&quot;,&quot;imId&quot;:&quot;68ccdcc4058e73c604612e645251413c&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A49312521%2C%22job_kind%22%3A2%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1949312521.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="济南女装督导" class="ellipsis-1">济南女装督导</div>
                                             <!-- dq 非空时显示 -->
                                             <div class="job-dq-box">
                                                 <span class="dq-bracket">【</span>
@@ -477,29 +1008,213 @@
                                         
                                         <!-- jobKind为7（ats职位）显示 -->
                                         
-                                        <span class="job-salary">10-20k</span>
+                                        <span class="job-salary">8-13k</span>
                                     </div>
                                     <div class="job-labels-box">
                                         
-                                            <span class="labels-tag">珠宝运营</span>
+                                            <span class="labels-tag">批发/零售</span>
                                         
-                                            <span class="labels-tag">珠宝店长</span>
+                                            <span class="labels-tag">客户管理</span>
                                         
-                                            <span class="labels-tag">珠宝店铺区域运营</span>
+                                            <span class="labels-tag">门店培训</span>
                                         
-                                            <span class="labels-tag">团队管理</span>
+                                            <span class="labels-tag">服装服饰</span>
                                         
-                                            <span class="labels-tag">销售管理</span>
+                                            <span class="labels-tag">市场洞察</span>
                                         
-                                            <span class="labels-tag">渠道管理</span>
+                                            <span class="labels-tag">区域销售</span>
                                         
-                                            <span class="labels-tag">区域管理</span>
+                                            <span class="labels-tag">门店销售</span>
                                         
-                                            <span class="labels-tag">消费品</span>
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/12492297/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/603894b5e12ca34c59b561bb01u.png"
+                                                        alt="杭州韦小宝纺织品有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">杭州韦小宝纺织品有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>融资未公开</span>
+                                                <span>1000-2000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">徐女士</div>
+                                    <div class="recruiter-title ellipsis-1">人力资源总监</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;89cbd96031e268a474e03a48e862fb93&quot;,&quot;jobId&quot;:&quot;49312521&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;89cbd96031e268a474e03a48e862fb93&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9863f6d1ab58476f246a08u.jpg&quot;,&quot;recruiterName&quot;:&quot;徐女士&quot;,&quot;userId&quot;:&quot;89cbd96031e268a474e03a48e862fb93&quot;,&quot;imId&quot;:&quot;a48a4597fdd4bbb299eeb040770b0b48&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A45248183%2C%22job_kind%22%3A2%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1945248183.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="门店经理，济南新店 ID95725" class="ellipsis-1">门店经理，济南新店 ID95725</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">薪资面议</span>
+                                    </div>
+                                    <div class="job-labels-box">
                                         
                                             <span class="labels-tag">批发/零售</span>
                                         
-                                            <span class="labels-tag">专业服务</span>
+                                            <span class="labels-tag">团队管理</span>
+                                        
+                                            <span class="labels-tag">社区服务</span>
+                                        
+                                            <span class="labels-tag">市场洞察</span>
+                                        
+                                            <span class="labels-tag">市场营销</span>
+                                        
+                                            <span class="labels-tag">经济学</span>
+                                        
+                                            <span class="labels-tag">服务业</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                            <span class="labels-tag">区域销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/9092862/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe9ddc74719d2aa34b765003a.png"
+                                                        alt="lululemon"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">lululemon</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>融资未公开</span>
+                                                <span>10000人以上</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">葛女士</div>
+                                    <div class="recruiter-title ellipsis-1">TA Specialist</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;jobId&quot;:&quot;45248183&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9866dfb13a7dee342f1808u.jpg&quot;,&quot;recruiterName&quot;:&quot;葛女士&quot;,&quot;userId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;imId&quot;:&quot;0c0a32dd901ac2bfac365a663ca833da&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A31900063%2C%22job_kind%22%3A2%2C%22cur_page%22%3A2%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1931900063.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="营运管理/店务督导" class="ellipsis-1">营运管理/店务督导</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">8-15k</span>
+                                    </div>
+                                    <div class="job-labels-box">
                                         
                                     </div>
                                 </a>
@@ -549,7 +1264,7 @@
                                         data-nick="recruiter-info-box-chat-btn"
                                 >
                                     <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
-                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;jobId&quot;:&quot;48391183&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9868f6d1ab58476f24a008u.jpg&quot;,&quot;recruiterName&quot;:&quot;王先生&quot;,&quot;userId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;imId&quot;:&quot;cfe3f0da8683a2c83eaad1f295204b5b&quot;}">
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;jobId&quot;:&quot;31900063&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9868f6d1ab58476f24a008u.jpg&quot;,&quot;recruiterName&quot;:&quot;王先生&quot;,&quot;userId&quot;:&quot;9e3db7d9f332998b150d28c2f185de9a&quot;,&quot;imId&quot;:&quot;cfe3f0da8683a2c83eaad1f295204b5b&quot;}">
                                         <span>聊一聊</span>
                                     </button>
                                 </div>
@@ -559,7 +1274,7 @@
                 </div>
                 <div class="job-list-item">
                     <div
-                            data-info="%7B%22job_id%22%3A46680459%2C%22job_kind%22%3A2%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            data-info="%7B%22job_id%22%3A43045543%2C%22job_kind%22%3A2%2C%22cur_page%22%3A2%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
                             class="job-card-pc-container seo-job-card-action-box"
                     >
                         <div class="job-card-left-box">
@@ -567,15 +1282,15 @@
                                 <!-- href需拼上dataPromId数据 -->
                                 <a data-nick="job-detail-job-info"
                                    target="_blank"
-                                   href="https://www.liepin.com/job/1946680459.shtml?d_headId=oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF&amp;d_sfrom=recom_jd"
+                                   href="https://www.liepin.com/job/1943045543.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
                                 >
                                     <div class="job-detail-header-box">
                                         <div class="job-title-box">
-                                            <div title="驿站运营督导" class="ellipsis-1">驿站运营督导</div>
+                                            <div title="业务分析经理" class="ellipsis-1">业务分析经理</div>
                                             <!-- dq 非空时显示 -->
                                             <div class="job-dq-box">
                                                 <span class="dq-bracket">【</span>
-                                                <span class="ellipsis-1">济南-历城区</span>
+                                                <span class="ellipsis-1">济南</span>
                                                 <span class="dq-bracket">】</span>
                                             </div>
                                         </div>
@@ -583,29 +1298,391 @@
                                         
                                         <!-- jobKind为7（ats职位）显示 -->
                                         
-                                        <span class="job-salary">6-15k</span>
+                                        <span class="job-salary">10-20k</span>
                                     </div>
                                     <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">业务分析</span>
+                                        
+                                            <span class="labels-tag">数据分析</span>
+                                        
+                                            <span class="labels-tag">办公软件</span>
                                         
                                     </div>
                                 </a>
 
                                 <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
-                                <a href="https://www.liepin.com/company/12701453/"
+                                <a href="https://www.liepin.com/company/9429793/"
                                    target="_blank">
                                     <div data-nick="job-detail-company-info" class="job-detail-company-box">
                                         <div class="job-company-info-box">
                                             <div class="company-logo">
                                                 <img
-                                                        src="https://image0.lietou-static.com/mini/61763f891c9e7323f17554d001u.png"
-                                                        alt="潍柴智能科技有限公司"
+                                                        src="https://image0.lietou-static.com/mini/5bfe8f1574719d35745a5eb103a.png"
+                                                        alt="柯渡医学科技"
                                                 />
                                             </div>
-                                            <span class="company-name ellipsis-1">潍柴智能科技有限公司</span>
+                                            <span class="company-name ellipsis-1">柯渡医学科技</span>
                                             <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
                                             <div class="company-tags-box ellipsis-1">
-                                                <span>车联网</span>
-                                                <span>战略融资</span>
+                                                <span>医疗器械</span>
+                                                <span>C轮</span>
+                                                <span>1000-2000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">庞女士</div>
+                                    <div class="recruiter-title ellipsis-1"></div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;58ab3a450c73c21f65b2777947ac38e5&quot;,&quot;jobId&quot;:&quot;43045543&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;58ab3a450c73c21f65b2777947ac38e5&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986779c7cc70efbf36c008u.jpg&quot;,&quot;recruiterName&quot;:&quot;庞女士&quot;,&quot;userId&quot;:&quot;58ab3a450c73c21f65b2777947ac38e5&quot;,&quot;imId&quot;:&quot;3e813451156b5a8e01ab80e4a8b96567&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A44066431%2C%22job_kind%22%3A2%2C%22cur_page%22%3A2%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1944066431.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="小米运营商区域客户经理" class="ellipsis-1">小米运营商区域客户经理</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">8-12k</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">区域销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/2174886/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/6063eaae381b283e0ab09cfb05u.png"
+                                                        alt="小米"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">小米</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>互联网/电商</span>
+                                                <span>已上市</span>
+                                                <span>10000人以上</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9865ea60860b75384fa508u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">韩女士</div>
+                                    <div class="recruiter-title ellipsis-1">HRBP</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;d780d72a5f3a7c59ea2870abe9a9c8d0&quot;,&quot;jobId&quot;:&quot;44066431&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;d780d72a5f3a7c59ea2870abe9a9c8d0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9865ea60860b75384fa508u.jpg&quot;,&quot;recruiterName&quot;:&quot;韩女士&quot;,&quot;userId&quot;:&quot;d780d72a5f3a7c59ea2870abe9a9c8d0&quot;,&quot;imId&quot;:&quot;0da21e9cf0e2fe0e38460a8b3990d206&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A46487557%2C%22job_kind%22%3A2%2C%22cur_page%22%3A2%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1946487557.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="战略研究员" class="ellipsis-1">战略研究员</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">8-14k·16薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">战略咨询</span>
+                                        
+                                            <span class="labels-tag">数据分析</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/7893220/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe9ebf74719d2aa34ba2af03a.png"
+                                                        alt="浪潮"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">浪潮</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>IT服务</span>
+                                                <span>融资未公开</span>
+                                                <span>10000人以上</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">杨女士</div>
+                                    <div class="recruiter-title ellipsis-1">招聘专员</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;7352b40209adfcaca898614ed32300bd&quot;,&quot;jobId&quot;:&quot;46487557&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;7352b40209adfcaca898614ed32300bd&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9866dfb13a7dee342f1808u.jpg&quot;,&quot;recruiterName&quot;:&quot;杨女士&quot;,&quot;userId&quot;:&quot;7352b40209adfcaca898614ed32300bd&quot;,&quot;imId&quot;:&quot;b6ac9fa3383233043a8b4208b41a2597&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A45381277%2C%22job_kind%22%3A2%2C%22cur_page%22%3A2%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1945381277.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="销售经理" class="ellipsis-1">销售经理</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">10-15k</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">销售管理</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/7889245/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe90f374719d35745abc0b03a.png"
+                                                        alt="上海豫园珠宝时尚集团有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">上海豫园珠宝时尚集团有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>珠宝/玩具/工艺品</span>
+                                                <span>融资未公开</span>
+                                                <span>1000-2000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/61dc148b0db16f312611cba804u.png"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">沈先生</div>
+                                    <div class="recruiter-title ellipsis-1">山东运营中心总经理</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;1693d237d64832040629abbf42a9bc85&quot;,&quot;jobId&quot;:&quot;45381277&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;1693d237d64832040629abbf42a9bc85&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;61dc148b0db16f312611cba804u.png&quot;,&quot;recruiterName&quot;:&quot;沈先生&quot;,&quot;userId&quot;:&quot;1693d237d64832040629abbf42a9bc85&quot;,&quot;imId&quot;:&quot;b308f3364c336d1b57fc5606f317ba92&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A47958285%2C%22job_kind%22%3A2%2C%22cur_page%22%3A3%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1947958285.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="督导/区域经理 | 阿水大杯茶总部" class="ellipsis-1">督导/区域经理 | 阿水大杯茶总部</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">6-10k</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">餐饮行业</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/13018277/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/61b07937d0458d53c627567e02u.jpg"
+                                                        alt="山东台联企业管理咨询有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">山东台联企业管理咨询有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>餐饮/酒旅/服务</span>
+                                                <span>融资未公开</span>
                                                 <span>100-499人</span>
                                             </div>
                                         </div>
@@ -619,14 +1696,14 @@
                                 <div class="recruiter-photo" data-selector="chat-chat"
                                      data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
                                     <img
-                                            src="https://image0.lietou-static.com/big/5f8f986c79c7cc70efbf36c808u.jpg"
+                                            src="https://image0.lietou-static.com/big/5f8f9865ea60860b75384fa508u.jpg"
                                             alt=""
                                     />
                                 </div>
 
                                 <div class="recruiter-info-text-box">
-                                    <div class="recruiter-name ellipsis-1">李先生</div>
-                                    <div class="recruiter-title ellipsis-1">HRBP</div>
+                                    <div class="recruiter-name ellipsis-1">王女士</div>
+                                    <div class="recruiter-title ellipsis-1">HR</div>
                                 </div>
                                 <!-- 聊一聊 -->
                                 <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
@@ -635,7 +1712,7 @@
                                         data-nick="recruiter-info-box-chat-btn"
                                 >
                                     <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
-                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;f5c20927c190e51e0bfbfccf40c652fc&quot;,&quot;jobId&quot;:&quot;46680459&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;f5c20927c190e51e0bfbfccf40c652fc&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986c79c7cc70efbf36c808u.jpg&quot;,&quot;recruiterName&quot;:&quot;李先生&quot;,&quot;userId&quot;:&quot;f5c20927c190e51e0bfbfccf40c652fc&quot;,&quot;imId&quot;:&quot;80e4382faeb7e7c8e4b537e9b7803e4b&quot;}">
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;f80866fa4c05e3c7f0232bc7e87b50a3&quot;,&quot;jobId&quot;:&quot;47958285&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;f80866fa4c05e3c7f0232bc7e87b50a3&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9865ea60860b75384fa508u.jpg&quot;,&quot;recruiterName&quot;:&quot;王女士&quot;,&quot;userId&quot;:&quot;f80866fa4c05e3c7f0232bc7e87b50a3&quot;,&quot;imId&quot;:&quot;fda804002a577136b57ce8a8aa087de1&quot;}">
                                         <span>聊一聊</span>
                                     </button>
                                 </div>
@@ -645,7 +1722,7 @@
                 </div>
                 <div class="job-list-item">
                     <div
-                            data-info="%7B%22job_id%22%3A34186103%2C%22job_kind%22%3A1%2C%22cur_page%22%3A0%2C%22page_size%22%3A5%2C%22head_id%22%3A%22oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            data-info="%7B%22job_id%22%3A41407667%2C%22job_kind%22%3A2%2C%22cur_page%22%3A3%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
                             class="job-card-pc-container seo-job-card-action-box"
                     >
                         <div class="job-card-left-box">
@@ -653,11 +1730,11 @@
                                 <!-- href需拼上dataPromId数据 -->
                                 <a data-nick="job-detail-job-info"
                                    target="_blank"
-                                   href="https://www.liepin.com/a/34186103.shtml?d_headId=oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF&amp;d_sfrom=recom_jd"
+                                   href="https://www.liepin.com/job/1941407667.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
                                 >
                                     <div class="job-detail-header-box">
                                         <div class="job-title-box">
-                                            <div title="驿站运营督导方向" class="ellipsis-1">驿站运营督导方向</div>
+                                            <div title="运营专员" class="ellipsis-1">运营专员</div>
                                             <!-- dq 非空时显示 -->
                                             <div class="job-dq-box">
                                                 <span class="dq-bracket">【</span>
@@ -669,7 +1746,7 @@
                                         
                                         <!-- jobKind为7（ats职位）显示 -->
                                         
-                                        <span class="job-salary">15-30k</span>
+                                        <span class="job-salary">10-12k·13薪</span>
                                     </div>
                                     <div class="job-labels-box">
                                         
@@ -677,24 +1754,27 @@
                                 </a>
 
                                 <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
-                                
-                                <div data-nick="job-detail-company-info" class="job-detail-company-box">
-                                    <div class="job-company-info-box">
-                                        <div class="company-logo">
-                                            <img
-                                                    src="https://image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"
-                                                    alt="某知名公司"
-                                            />
-                                        </div>
-                                        <span class="company-name ellipsis-1">某知名公司</span>
-                                        <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
-                                        <div class="company-tags-box ellipsis-1">
-                                            <span>车联网</span>
-                                            <span>战略融资</span>
-                                            <span>100-499人</span>
+                                <a href="https://www.liepin.com/company/2036768/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5fe1a95455550936bbd28ea506u.png"
+                                                        alt="美团"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">美团</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>互联网/电商</span>
+                                                <span>已上市</span>
+                                                <span>10000人以上</span>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
+                                </a>
+                                
                             </div>
                         </div>
                         <div class="job-card-right-box">
@@ -702,14 +1782,14 @@
                                 <div class="recruiter-photo" data-selector="chat-chat"
                                      data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
                                     <img
-                                            src="https://image0.lietou-static.com/big/62031a34a2c4e9517f1126ca06u.jpg"
+                                            src="https://image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg"
                                             alt=""
                                     />
                                 </div>
 
                                 <div class="recruiter-info-text-box">
-                                    <div class="recruiter-name ellipsis-1">马女士</div>
-                                    <div class="recruiter-title ellipsis-1">猎头顾问</div>
+                                    <div class="recruiter-name ellipsis-1">张女士</div>
+                                    <div class="recruiter-title ellipsis-1">人事</div>
                                 </div>
                                 <!-- 聊一聊 -->
                                 <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
@@ -718,7 +1798,7 @@
                                         data-nick="recruiter-info-box-chat-btn"
                                 >
                                     <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
-                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;da77976ed6fc3c60080e2f9aea4a0740&quot;,&quot;jobId&quot;:&quot;34186103&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;da77976ed6fc3c60080e2f9aea4a0740&quot;,&quot;jobKind&quot;:&quot;1&quot;,&quot;recruiterPhoto&quot;:&quot;62031a34a2c4e9517f1126ca06u.jpg&quot;,&quot;recruiterName&quot;:&quot;马女士&quot;,&quot;userId&quot;:&quot;da77976ed6fc3c60080e2f9aea4a0740&quot;,&quot;imId&quot;:&quot;96c688f251e2ee2b160b5b344d4ef7b6&quot;}">
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;73cf13bd95e360cccf563c68a7fbf23a&quot;,&quot;jobId&quot;:&quot;41407667&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;73cf13bd95e360cccf563c68a7fbf23a&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9866dfb13a7dee342f1808u.jpg&quot;,&quot;recruiterName&quot;:&quot;张女士&quot;,&quot;userId&quot;:&quot;73cf13bd95e360cccf563c68a7fbf23a&quot;,&quot;imId&quot;:&quot;081eae9c67c99e06cc809655362a8e54&quot;}">
                                         <span>聊一聊</span>
                                     </button>
                                 </div>
@@ -728,7 +1808,7 @@
                 </div>
                 <div class="job-list-item">
                     <div
-                            data-info="%7B%22job_id%22%3A34175401%2C%22job_kind%22%3A1%2C%22cur_page%22%3A1%2C%22page_size%22%3A5%2C%22head_id%22%3A%22oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            data-info="%7B%22job_id%22%3A36895767%2C%22job_kind%22%3A2%2C%22cur_page%22%3A3%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
                             class="job-card-pc-container seo-job-card-action-box"
                     >
                         <div class="job-card-left-box">
@@ -736,11 +1816,11 @@
                                 <!-- href需拼上dataPromId数据 -->
                                 <a data-nick="job-detail-job-info"
                                    target="_blank"
-                                   href="https://www.liepin.com/a/34175401.shtml?d_headId=oh4CwjL5yRJZ5KBDlAz6K8BCt5X5hRfF&amp;d_sfrom=recom_jd"
+                                   href="https://www.liepin.com/job/1936895767.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
                                 >
                                     <div class="job-detail-header-box">
                                         <div class="job-title-box">
-                                            <div title="驿站运营督导" class="ellipsis-1">驿站运营督导</div>
+                                            <div title="门店副经理，济南恒隆店 ID74006" class="ellipsis-1">门店副经理，济南恒隆店 ID74006</div>
                                             <!-- dq 非空时显示 -->
                                             <div class="job-dq-box">
                                                 <span class="dq-bracket">【</span>
@@ -752,32 +1832,55 @@
                                         
                                         <!-- jobKind为7（ats职位）显示 -->
                                         
-                                        <span class="job-salary">21-22k</span>
+                                        <span class="job-salary">薪资面议</span>
                                     </div>
                                     <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">销售管理</span>
+                                        
+                                            <span class="labels-tag">服务业</span>
+                                        
+                                            <span class="labels-tag">社区服务</span>
+                                        
+                                            <span class="labels-tag">团队管理</span>
+                                        
+                                            <span class="labels-tag">经济学</span>
+                                        
+                                            <span class="labels-tag">市场洞察</span>
+                                        
+                                            <span class="labels-tag">市场营销</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                            <span class="labels-tag">区域销售</span>
                                         
                                     </div>
                                 </a>
 
                                 <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
-                                
-                                <div data-nick="job-detail-company-info" class="job-detail-company-box">
-                                    <div class="job-company-info-box">
-                                        <div class="company-logo">
-                                            <img
-                                                    src="https://image0.lietou-static.com/mini/60e2fe0bf3df194a3c48adb502u.png"
-                                                    alt="某国内汽车公司"
-                                            />
-                                        </div>
-                                        <span class="company-name ellipsis-1">某国内汽车公司</span>
-                                        <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
-                                        <div class="company-tags-box ellipsis-1">
-                                            <span>车联网</span>
-                                            <span>战略融资</span>
-                                            <span>100-499人</span>
+                                <a href="https://www.liepin.com/company/9092862/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe9ddc74719d2aa34b765003a.png"
+                                                        alt="lululemon"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">lululemon</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>融资未公开</span>
+                                                <span>10000人以上</span>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
+                                </a>
+                                
                             </div>
                         </div>
                         <div class="job-card-right-box">
@@ -785,14 +1888,14 @@
                                 <div class="recruiter-photo" data-selector="chat-chat"
                                      data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
                                     <img
-                                            src="https://image0.lietou-static.com/big/6203165d24ef9b38bd075e2406u.jpg"
+                                            src="https://image0.lietou-static.com/big/5f8f9866dfb13a7dee342f1808u.jpg"
                                             alt=""
                                     />
                                 </div>
 
                                 <div class="recruiter-info-text-box">
-                                    <div class="recruiter-name ellipsis-1">侯先生</div>
-                                    <div class="recruiter-title ellipsis-1">猎头顾问</div>
+                                    <div class="recruiter-name ellipsis-1">葛女士</div>
+                                    <div class="recruiter-title ellipsis-1">TA Specialist</div>
                                 </div>
                                 <!-- 聊一聊 -->
                                 <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
@@ -801,7 +1904,285 @@
                                         data-nick="recruiter-info-box-chat-btn"
                                 >
                                     <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
-                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;ecba40f7c765b3d9983c136d281ee9ca&quot;,&quot;jobId&quot;:&quot;34175401&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;ecba40f7c765b3d9983c136d281ee9ca&quot;,&quot;jobKind&quot;:&quot;1&quot;,&quot;recruiterPhoto&quot;:&quot;6203165d24ef9b38bd075e2406u.jpg&quot;,&quot;recruiterName&quot;:&quot;侯先生&quot;,&quot;userId&quot;:&quot;ecba40f7c765b3d9983c136d281ee9ca&quot;,&quot;imId&quot;:&quot;7875b513127705c02efebeb7f272cb14&quot;}">
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;jobId&quot;:&quot;36895767&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9866dfb13a7dee342f1808u.jpg&quot;,&quot;recruiterName&quot;:&quot;葛女士&quot;,&quot;userId&quot;:&quot;51a04c4a8dd26798e20a523d05b17bde&quot;,&quot;imId&quot;:&quot;0c0a32dd901ac2bfac365a663ca833da&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A41009069%2C%22job_kind%22%3A2%2C%22cur_page%22%3A3%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1941009069.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="UR店铺副总经理（济南）" class="ellipsis-1">UR店铺副总经理（济南）</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">9-10k·13薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">商品管理</span>
+                                        
+                                            <span class="labels-tag">门店管理</span>
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/904651/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5955d824703287e466d0bb1905a.jpg"
+                                                        alt="UR 快尚时装有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">UR 快尚时装有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>服装纺织</span>
+                                                <span>融资未公开</span>
+                                                <span>2000-5000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">王女士</div>
+                                    <div class="recruiter-title ellipsis-1">hrbp</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;5d9c541126120e13c70c6a99e8cef684&quot;,&quot;jobId&quot;:&quot;41009069&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;5d9c541126120e13c70c6a99e8cef684&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986779c7cc70efbf36c008u.jpg&quot;,&quot;recruiterName&quot;:&quot;王女士&quot;,&quot;userId&quot;:&quot;5d9c541126120e13c70c6a99e8cef684&quot;,&quot;imId&quot;:&quot;fdd55fdd9ceabeeb3eae059a38e31609&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A23230215%2C%22job_kind%22%3A2%2C%22cur_page%22%3A3%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1923230215.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="店长副店长店助（小ck济南地区）" class="ellipsis-1">店长副店长店助（小ck济南地区）</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历下区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">5-10k·14薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                            <span class="labels-tag">批发/零售</span>
+                                        
+                                            <span class="labels-tag">店员管理</span>
+                                        
+                                            <span class="labels-tag">皮鞋皮具</span>
+                                        
+                                            <span class="labels-tag">服装服饰</span>
+                                        
+                                            <span class="labels-tag">店员培训</span>
+                                        
+                                            <span class="labels-tag">门店销售</span>
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/1322665/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/5bfe913674719d35745ac97103a.png"
+                                                        alt="CHARLES &amp; KEITH GROUP"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">CHARLES &amp; KEITH GROUP</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>批发零售</span>
+                                                <span>融资未公开</span>
+                                                <span>1000-2000人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f986779c7cc70efbf36c008u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">秦女士</div>
+                                    <div class="recruiter-title ellipsis-1">人力资源伙伴(HRBP)</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;5889d5317093f0d2743c188d0b6769ab&quot;,&quot;jobId&quot;:&quot;23230215&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;5889d5317093f0d2743c188d0b6769ab&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f986779c7cc70efbf36c008u.jpg&quot;,&quot;recruiterName&quot;:&quot;秦女士&quot;,&quot;userId&quot;:&quot;5889d5317093f0d2743c188d0b6769ab&quot;,&quot;imId&quot;:&quot;dd46562aad99422f2f0021fc381f9c45&quot;}">
+                                        <span>聊一聊</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-list-item">
+                    <div
+                            data-info="%7B%22job_id%22%3A49136585%2C%22job_kind%22%3A2%2C%22cur_page%22%3A4%2C%22page_size%22%3A5%2C%22head_id%22%3A%22nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA%22%2C%22as_from%22%3A%22recom_jd%22%7D"
+                            class="job-card-pc-container seo-job-card-action-box"
+                    >
+                        <div class="job-card-left-box">
+                            <div class="job-detail-box">
+                                <!-- href需拼上dataPromId数据 -->
+                                <a data-nick="job-detail-job-info"
+                                   target="_blank"
+                                   href="https://www.liepin.com/job/1949136585.shtml?d_headId=nJP3udMvqWzKDGL4qZgBU1y2wrIxVqdA&amp;d_sfrom=recom_jd"
+                                >
+                                    <div class="job-detail-header-box">
+                                        <div class="job-title-box">
+                                            <div title="大数据讲师" class="ellipsis-1">大数据讲师</div>
+                                            <!-- dq 非空时显示 -->
+                                            <div class="job-dq-box">
+                                                <span class="dq-bracket">【</span>
+                                                <span class="ellipsis-1">济南-历城区</span>
+                                                <span class="dq-bracket">】</span>
+                                            </div>
+                                        </div>
+                                        <!-- topJob为true时显示 -->
+                                        
+                                        <!-- jobKind为7（ats职位）显示 -->
+                                        
+                                        <span class="job-salary">13-18k·13薪</span>
+                                    </div>
+                                    <div class="job-labels-box">
+                                        
+                                    </div>
+                                </a>
+
+                                <!-- 有公司链接时才用a标签，没有公司链接不需要a标签 -->
+                                <a href="https://www.liepin.com/company/12849603/"
+                                   target="_blank">
+                                    <div data-nick="job-detail-company-info" class="job-detail-company-box">
+                                        <div class="job-company-info-box">
+                                            <div class="company-logo">
+                                                <img
+                                                        src="https://image0.lietou-static.com/mini/614432586b0248106f72288a05u.png"
+                                                        alt="青软创新科技集团股份有限公司"
+                                                />
+                                            </div>
+                                            <span class="company-name ellipsis-1">青软创新科技集团股份有限公司</span>
+                                            <!-- compIndustry || compStage || compScale 三个都没有值时不显示 -->
+                                            <div class="company-tags-box ellipsis-1">
+                                                <span>教育培训</span>
+                                                <span>A轮</span>
+                                                <span>500-999人</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div class="job-card-right-box">
+                            <div class="recruiter-info-box">
+                                <div class="recruiter-photo" data-selector="chat-chat"
+                                     data-params="{&quot;recruiterId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobId&quot;:&quot;48895625&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;6205d2955340a52ba710315802u.png&quot;,&quot;recruiterName&quot;:&quot;陶先生&quot;,&quot;userId&quot;:&quot;786c6ba3ac7f1d14256351cd157a5ad0&quot;,&quot;imId&quot;:&quot;79adbfc696e203efaf76ff299c1c047c&quot;}">
+                                    <img
+                                            src="https://image0.lietou-static.com/big/5f8f9863f6d1ab58476f246a08u.jpg"
+                                            alt=""
+                                    />
+                                </div>
+
+                                <div class="recruiter-info-text-box">
+                                    <div class="recruiter-name ellipsis-1">陈女士</div>
+                                    <div class="recruiter-title ellipsis-1">招聘主管</div>
+                                </div>
+                                <!-- 聊一聊 -->
+                                <!-- data-params为json字符串，所需参数: jobId,jobKind,recruiterId,imId,imUserType,recruiterName,recruiterPhoto -->
+                                <div
+                                        class="chat-btn-box"
+                                        data-nick="recruiter-info-box-chat-btn"
+                                >
+                                    <button type="button" class="ant-btn ant-btn-primary ant-btn-round"
+                                            data-selector="chat-chat" data-params="{&quot;recruiterId&quot;:&quot;83f0ad631043c8dd151fe52565e8a031&quot;,&quot;jobId&quot;:&quot;49136585&quot;,&quot;imUserType&quot;:&quot;2&quot;,&quot;encodedUserId&quot;:&quot;83f0ad631043c8dd151fe52565e8a031&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f9863f6d1ab58476f246a08u.jpg&quot;,&quot;recruiterName&quot;:&quot;陈女士&quot;,&quot;userId&quot;:&quot;83f0ad631043c8dd151fe52565e8a031&quot;,&quot;imId&quot;:&quot;40048f3a909e2fb2d33cecc9f6c3eef4&quot;}">
                                         <span>聊一聊</span>
                                     </button>
                                 </div>
@@ -812,9 +2193,9 @@
             </div>
             <div class="pagination-box">
                 <span class="page-no active" data-selector="page-no">1</span>
-                
-                
-                
+                <span class="page-no" data-selector="page-no">2</span>
+                <span class="page-no" data-selector="page-no">3</span>
+                <span class="page-no" data-selector="page-no">4</span>
             </div>
         </section>
         <!-- 底部搜索 -->
@@ -841,7 +2222,7 @@
                     <!-- 公司名称 -->
                     <div class="name ellipsis-1">上海豫园珠宝时尚集团有限公司</div>
 
-                    <div class="job-count">在招职位<em>285</em>个</div>
+                    <div class="job-count">在招职位<em>276</em>个</div>
                 </div>
                 <!-- @毅晨 需要在$CONFIG.isFollowed/$CONFIG.compId -->
                 <div class="follow-box">
@@ -897,7 +2278,7 @@
                 </div>
                 <div class="label-box ellipsis-4">
                     <span class="label">经营范围：</span>
-                    <span class="text">金银制品、首饰、金属及金属矿产品、工艺美术品、百货、钟表的零售、批发，艺术品鉴定、服务，国内贸易（除专项规定外），贸易经纪与代理（除拍卖），实业投资，投资管理，从事货物及技术的进出口业务。
+                    <span class="text">金银制品、首饰、金属及金属矿产品、工艺美术品、百货、钟表的零售、批发，艺术品鉴定、服务，国内贸易（除专项规定外），贸易经纪与代理（除拍卖），实业投资，投资管理，从事货物及技术的进出口业务。
 【依法须经批准的项目，经相关部门批准后方可开展经营活动】</span>
                 </div>
             </div>
@@ -914,20 +2295,20 @@
                 <h2 class="recommend-company-title">推荐企业</h2>
                 <ul class="recommend-company-list">
                     <li>
+                        <a href="https://www.liepin.com/company/8085019/" target="_blank">
+                            <img class="company-logo"
+                                 src="https://image0.lietou-static.com/img/5c9334a7509919fa0e8f870c05u.png"
+                                 alt="comp"/>
+                            <div class="company-name ellipsis-1">上海豫园旅游商城(集团)股份有限公司</div>
+                            <!--<div class="job-count"><em>128</em>个热招职位</div>-->
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://www.liepin.com/company/8634114/" target="_blank">
                             <img class="company-logo"
                                  src="https://image0.lietou-static.com/img/5bfe98f874719df0ac998aca03a.png"
                                  alt="comp"/>
                             <div class="company-name ellipsis-1">李宁体育用品</div>
-                            <!--<div class="job-count"><em>128</em>个热招职位</div>-->
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.liepin.com/company/173024/" target="_blank">
-                            <img class="company-logo"
-                                 src="https://image0.lietou-static.com/img/5bfe908774719d35745aa7af03a.png"
-                                 alt="comp"/>
-                            <div class="company-name ellipsis-1">罗莱</div>
                             <!--<div class="job-count"><em>128</em>个热招职位</div>-->
                         </a>
                     </li>
@@ -941,11 +2322,20 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.liepin.com/company/9736931/" target="_blank">
+                        <a href="https://www.liepin.com/company/7868976/" target="_blank">
                             <img class="company-logo"
-                                 src="https://image0.lietou-static.com/img/606ec998c1aaaf2039d4ce4801u.png"
+                                 src="https://image0.lietou-static.com/img/60ab6d8602333344b3c9c35f08u.png"
                                  alt="comp"/>
-                            <div class="company-name ellipsis-1">上海哔哩哔哩科技有限公司</div>
+                            <div class="company-name ellipsis-1">来伊份</div>
+                            <!--<div class="job-count"><em>128</em>个热招职位</div>-->
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.liepin.com/company/12880829/" target="_blank">
+                            <img class="company-logo"
+                                 src="https://image0.lietou-static.com/img/618894e00385cf634049e90a01u.png"
+                                 alt="comp"/>
+                            <div class="company-name ellipsis-1">上海豫园商业发展集团有限公司</div>
                             <!--<div class="job-count"><em>128</em>个热招职位</div>-->
                         </a>
                     </li>
@@ -955,15 +2345,6 @@
                                  src="https://image0.lietou-static.com/img/5bfe8fda74719d35745a855803a.png"
                                  alt="comp"/>
                             <div class="company-name ellipsis-1">欧莱雅中国</div>
-                            <!--<div class="job-count"><em>128</em>个热招职位</div>-->
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.liepin.com/company/1790705/" target="_blank">
-                            <img class="company-logo"
-                                 src="https://image0.lietou-static.com/img/5c4970d4509919607f6b701f06u.png"
-                                 alt="comp"/>
-                            <div class="company-name ellipsis-1">Michael Page</div>
                             <!--<div class="job-count"><em>128</em>个热招职位</div>-->
                         </a>
                     </li>
@@ -994,11 +2375,11 @@
                 </ul>
                 <div class="common-hot-links-content hot-links-content-active"
                      data-selector="common-hot-links-content">
-                    <a href="https://www.liepin.com/city-jinan/zpdongdaoxunlian/" target="_blank" title="济南督导训练招聘">济南督导训练招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobuzongjian/" target="_blank" title="济南督导部总监招聘">济南督导部总监招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaopeixungang/" target="_blank" title="济南督导培训岗招聘">济南督导培训岗招聘</a><a href="https://www.liepin.com/city-jinan/zpxundian/" target="_blank" title="济南巡店招聘">济南巡店招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoxunliangang03/" target="_blank" title="济南督导训练岗招聘">济南督导训练岗招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozuxungang03/" target="_blank" title="济南督导组训岗招聘">济南督导组训岗招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhenjiang/" target="_blank" title="济南督导镇江招聘">济南督导镇江招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuanyuan/" target="_blank" title="济南督导专员招聘">济南督导专员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuliwang/" target="_blank" title="济南督导助理网招聘">济南督导助理网招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaowenyuan/" target="_blank" title="济南督导文员招聘">济南督导文员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuguan/" target="_blank" title="济南督导主管招聘">济南督导主管招聘</a><a href="https://www.liepin.com/city-jinan/zpdudao0yulin08/" target="_blank" title="济南督导（榆林）招聘">济南督导（榆林）招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobujingli/" target="_blank" title="济南督导部经理招聘">济南督导部经理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobuzhuanyuan/" target="_blank" title="济南督导部专员招聘">济南督导部专员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoguwen/" target="_blank" title="济南督导顾问招聘">济南督导顾问招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoqujingli/" target="_blank" title="济南督导区经理招聘">济南督导区经理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuli/" target="_blank" title="济南督导助理招聘">济南督导助理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoguanlizhuanyuan/" target="_blank" title="济南督导管理专员招聘">济南督导管理专员招聘</a><a href="https://www.liepin.com/city-jinan/zpdongdaoguanligang/" target="_blank" title="济南督导管理岗招聘">济南督导管理岗招聘</a><a href="https://www.liepin.com/city-jinan/zpkaxundiandudao/" target="_blank" title="济南KA巡店督导招聘">济南KA巡店督导招聘</a><a href="https://www.liepin.com/city-jinan/zpshixidudaoyuan/" target="_blank" title="济南实习督导员招聘">济南实习督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpdongdaoyuan/" target="_blank" title="济南督导员招聘">济南督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaojingli/" target="_blank" title="济南督导经理招聘">济南督导经理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuren/" target="_blank" title="济南督导主任招聘">济南督导主任招聘</a><a href="https://www.liepin.com/city-jinan/zpxundianyewu/" target="_blank" title="济南巡店业务招聘">济南巡店业务招聘</a>
+                    <a href="https://www.liepin.com/city-jinan/zpdongdaoxunlian/" target="_blank" title="济南督导训练招聘">济南督导训练招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobuzongjian/" target="_blank" title="济南督导部总监招聘">济南督导部总监招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaopeixungang/" target="_blank" title="济南督导培训岗招聘">济南督导培训岗招聘</a><a href="https://www.liepin.com/city-jinan/zpxundian/" target="_blank" title="济南巡店招聘">济南巡店招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoxunliangang03/" target="_blank" title="济南督导训练岗招聘">济南督导训练岗招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozuxungang03/" target="_blank" title="济南督导组训岗招聘">济南督导组训岗招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhenjiang/" target="_blank" title="济南督导镇江招聘">济南督导镇江招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuanyuan/" target="_blank" title="济南督导专员招聘">济南督导专员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaozhuliwang/" target="_blank" title="济南督导助理网招聘">济南督导助理网招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobujingli/" target="_blank" title="济南督导部经理招聘">济南督导部经理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaobuzhuanyuan/" target="_blank" title="济南督导部专员招聘">济南督导部专员招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoguwen/" target="_blank" title="济南督导顾问招聘">济南督导顾问招聘</a><a href="https://www.liepin.com/city-jinan/zpdudaoqujingli/" target="_blank" title="济南督导区经理招聘">济南督导区经理招聘</a><a href="https://www.liepin.com/city-jinan/zpdongdaoguanligang/" target="_blank" title="济南督导管理岗招聘">济南督导管理岗招聘</a><a href="https://www.liepin.com/city-jinan/zpshixidudaoyuan/" target="_blank" title="济南实习督导员招聘">济南实习督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpdongdaoyuan/" target="_blank" title="济南督导员招聘">济南督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpxundianyewu/" target="_blank" title="济南巡店业务招聘">济南巡店业务招聘</a><a href="https://www.liepin.com/city-jinan/zpanquandudaoyuan/" target="_blank" title="济南安全督导员招聘">济南安全督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpfuwududaoguanli/" target="_blank" title="济南服务督导管理招聘">济南服务督导管理招聘</a><a href="https://www.liepin.com/city-jinan/zpdudao08yibin/" target="_blank" title="济南督导-宜宾招聘">济南督导-宜宾招聘</a><a href="https://www.liepin.com/city-jinan/zpjigoududaozhuanyuan/" target="_blank" title="济南机构督导专员招聘">济南机构督导专员招聘</a><a href="https://www.liepin.com/city-jinan/zpxundiandudao/" target="_blank" title="济南巡店督导招聘">济南巡店督导招聘</a><a href="https://www.liepin.com/city-jinan/zpdiqududao/" target="_blank" title="济南地区督导招聘">济南地区督导招聘</a><a href="https://www.liepin.com/city-jinan/zpfenxiaodudaoyuan/" target="_blank" title="济南分销督导员招聘">济南分销督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpjiaoxuedudaoyuan/" target="_blank" title="济南教学督导员招聘">济南教学督导员招聘</a><a href="https://www.liepin.com/city-jinan/zpdongdaopeixun/" target="_blank" title="济南督导培训招聘">济南督导培训招聘</a><a href="https://www.liepin.com/city-jinan/zpguanlidudaozhuanyuan/" target="_blank" title="济南管理督导专员招聘">济南管理督导专员招聘</a><a href="https://www.liepin.com/city-jinan/zpxuqidudaogang/" target="_blank" title="济南续期督导岗招聘">济南续期督导岗招聘</a><a href="https://www.liepin.com/city-jinan/zpgaojidudaozhuanyuan03/" target="_blank" title="济南高级督导专员招聘">济南高级督导专员招聘</a><a href="https://www.liepin.com/city-jinan/zpjiaotongdudaoyuan/" target="_blank" title="济南交通督导员招聘">济南交通督导员招聘</a>
                 </div>
                 <div class="common-hot-links-content"
                      data-selector="common-hot-links-content">
-                    <a href="https://www.liepin.com/company/13174161/" target="_blank" title="山东中淼恒富商业管理有限公司">山东中淼恒富商业管理有限公司</a><a href="https://www.liepin.com/company/12461313/" target="_blank" title="济南咚哒文化传媒有限公司">济南咚哒文化传媒有限公司</a><a href="https://www.liepin.com/company/9466817/" target="_blank" title="北京鹏腾畅联科技有限公司">北京鹏腾畅联科技有限公司</a><a href="https://www.liepin.com/company/9605186/" target="_blank" title="山东佳梆数控科技集团有限公司">山东佳梆数控科技集团有限公司</a><a href="https://www.liepin.com/company/8339631/" target="_blank" title="山东恒创仓储设备有限责任公司">山东恒创仓储设备有限责任公司</a><a href="https://www.liepin.com/company/9743689/" target="_blank" title="山东优纳特环境科技有限公司">山东优纳特环境科技有限公司</a><a href="https://www.liepin.com/company/9466841/" target="_blank" title="山东方寸装饰设计有限公司">山东方寸装饰设计有限公司</a><a href="https://www.liepin.com/company/9605174/" target="_blank" title="济南朗仕环境科技有限公司">济南朗仕环境科技有限公司</a><a href="https://www.liepin.com/company/8339700/" target="_blank" title="济南同元泰实业有限公司">济南同元泰实业有限公司</a><a href="https://www.liepin.com/company/9605600/" target="_blank" title="济南市五洋健身俱乐部">济南市五洋健身俱乐部</a><a href="https://www.liepin.com/company/9215519/" target="_blank" title="山东华安检测技术有限公司">山东华安检测技术有限公司</a><a href="https://www.liepin.com/company/13176189/" target="_blank" title="回芯能源技术(山东)有限公司">回芯能源技术(山东)有限公司</a><a href="https://www.liepin.com/company/12786765/" target="_blank" title="智能装备">智能装备</a><a href="https://www.liepin.com/company/13173945/" target="_blank" title="济南市历城区空白艺术培训学校有限公司">济南市历城区空白艺术培训学校有限公司</a><a href="https://www.liepin.com/company/9898179/" target="_blank" title="山东慧成工程技术有限公司">山东慧成工程技术有限公司</a><a href="https://www.liepin.com/company/12359271/" target="_blank" title="山东家齐科技有限公司">山东家齐科技有限公司</a>
+                    <a href="https://www.liepin.com/company/8590421/" target="_blank" title="济南爱家人食品有限公司">济南爱家人食品有限公司</a><a href="https://www.liepin.com/company/10041805/" target="_blank" title="华融智科(济南)网络科技有限公司">华融智科(济南)网络科技有限公司</a><a href="https://www.liepin.com/company/9715364/" target="_blank" title="山东启凡环保科技有限公司">山东启凡环保科技有限公司</a><a href="https://www.liepin.com/company/8206770/" target="_blank" title="统一银座">统一银座</a><a href="https://www.liepin.com/company/12862185/" target="_blank" title="济南欣雨嘉智能科技有限公司">济南欣雨嘉智能科技有限公司</a><a href="https://www.liepin.com/company/9868091/" target="_blank" title="山东经安纬固消防科技有限公司">山东经安纬固消防科技有限公司</a><a href="https://www.liepin.com/company/13100129/" target="_blank" title="彼特利司(山东)农业发展有限公司">彼特利司(山东)农业发展有限公司</a><a href="https://www.liepin.com/company/12862159/" target="_blank" title="济南糖禾文化传媒有限公司">济南糖禾文化传媒有限公司</a><a href="https://www.liepin.com/company/12949799/" target="_blank" title="山东问鼎实业有限公司数字直播中心">山东问鼎实业有限公司数字直播中心</a><a href="https://www.liepin.com/company/7871443/" target="_blank" title="济南亿福包装制品有限公司">济南亿福包装制品有限公司</a><a href="https://www.liepin.com/company/7937251/" target="_blank" title="山东龙融招投标代理有限公司">山东龙融招投标代理有限公司</a><a href="https://www.liepin.com/company/2589143/" target="_blank" title="北京华万投资管理有限公司济南分公司">北京华万投资管理有限公司济南分公司</a><a href="https://www.liepin.com/company/7937211/" target="_blank" title="山东安之畅智能交通科技有限公司">山东安之畅智能交通科技有限公司</a><a href="https://www.liepin.com/company/12382701/" target="_blank" title="济南市天桥区千承艺术培训学校">济南市天桥区千承艺术培训学校</a><a href="https://www.liepin.com/company/9435000/" target="_blank" title="嘉诚建设管理有限公司">嘉诚建设管理有限公司</a><a href="https://www.liepin.com/company/10251001/" target="_blank" title="兖州中材建设有限公司玉山分公司">兖州中材建设有限公司玉山分公司</a><a href="https://www.liepin.com/company/7937147/" target="_blank" title="山东平安建设集团有限公司">山东平安建设集团有限公司</a><a href="https://www.liepin.com/company/9434989/" target="_blank" title="山东省工程监理咨询有限公司">山东省工程监理咨询有限公司</a><a href="https://www.liepin.com/company/7937108/" target="_blank" title="山东恒生置地有限公司">山东恒生置地有限公司</a>
                 </div>
                 <div class="common-hot-links-content"
                      data-selector="common-hot-links-content">
@@ -1027,7 +2408,18 @@
 
 
 
-    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/polyfill-vendors.884a0629.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/polyfill-vendors.60528aa8.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/react-vendors.84adeb74.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/runtime.a56cc465.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/common.06aaaff2.js"></script>
+
+<script src="//concat.lietou-static.com/fe-www-pc/v6/js/pages/job.b9050eb8.js"></script>
+<!-- footer @荣进 -->
+
+    <script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+
+<!-- imc -->
+
     <script>
         (function () {
             var imEntryScript = '<script crossOrigin="anonymous" src="//concat.lietou-static.com/fe-imc-pc/v6/latest/entry.js?q='.concat(
@@ -1037,15 +2429,33 @@
             document.write(imEntryScript);
         })();
     </script>
-    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/react-vendors.d02a48c0.js"></script>
-    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/runtime.658841c1.js"></script>
-    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/common.8501c62b.js"></script>
-    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v5/tlog/tlog.min.73afc042.js"></script>
 
-<script src="//s.lietou-static.com/fe-www-pc/v6/js/pages/job.0d382d62.js"></script>
-<!-- footer @荣进 -->
+<!-- tlog -->
 
-    <script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v6/tlog/2.0.10/tlog.min.js"></script>
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+            "appid": "1586030202028057",
+            "@id": "https://www.liepin.com/job/1948895625.shtml",
+            "title": "【运营督导招聘】_上海豫园珠宝时尚集团有限公司招聘信息-猎聘",
+            "description": "【上海豫园珠宝时尚集团有限公司招聘信息】诚聘【运营督导】年薪8-12k·13薪,上海豫园珠宝时尚集团有限公司公司规模1000-2000人,经验:经验不限,学历: ,猎聘祝您顺利获得上海豫园珠宝时尚集团有限公司运营督导职位.",
+            "pubDate": "2022-04-13T23:35:56",
+            "update" : "",
+            "data": {
+                "WebPage": {
+                    "headline": "【运营督导招聘】_上海豫园珠宝时尚集团有限公司招聘信息-猎聘",
+                    "pcUrl": "https://www.liepin.com/job/1948895625.shtml",
+                    "wapUrl": "https://m.liepin.com/job/1948895625.shtml",
+                    "datePublished": "2022-04-13T23:35:56"
+                }
+            }
+        }
+    </script>
+    
+    
 
 </body>
 </html>

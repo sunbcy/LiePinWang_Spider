@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>【中海物业招聘】-猎聘</title>
+    <meta name="keywords" content="中海物业招聘,中海物业招聘信息,中海物业公司介绍">
+    <meta name="description" content="猎聘为您提供2022年中海物业招聘信息，更有中海物业企业介绍、中海物业地址、中海物业工作环境以及中海物业招聘岗位信息，全面的为您提供中海物业高薪职位，求职找工作就上猎聘网。">
+
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="Cache-Control" content="no-transform"/>
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel=dns-prefetch href="//concat.lietou-static.com" />
+    <link rel=dns-prefetch href="//image0.lietou-static.com" />
+    <!-- 使360浏览器 默认启用极速内核 -->
+    <meta name="renderer" content="webkit">
+    <link rel="preconnect" href="//concat.lietou-static.com" />
+    <link rel="preconnect" href="//image0.lietou-static.com" />
+    <link rel="icon" href="//concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico" type="image/x-icon"/>
+    <script crossorigin="anonymous"  src="//concat.lietou-static.com/fe-www-pc/v6/static/js/jquery-1.7.1.min.99a28ce2.js"></script>
+    <script src="//concat.lietou-static.com/fe-lib-pc/v5/femonitor/0.9.0/femonitor.min.8503c6bc.js"></script>
+    <script src="//concat.lietou-static.com/fe-www-pc/v6/static/js/es6-proxy-polyfill.87701cc7.js"></script>
+    <!--[if lte IE 9]>
+    <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/html5shiv.js"></script>
+    <script src="//concat.lietou-static.com/fe-c-pc/v6/static/js/unpack_files/console-polyfill.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-www-pc/v6/css/common.0869b241.css"/>
+    <script>
+        /*@cc_on document.write("<script src=\"//concat.lietou-static.com/fe-lib-pc/v5/ietip/index.download.qa.38e4a2d5.js\"><\/script>")@*/
+    </script>
+
+    <!-- 待服务端联调时开启 -->
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-www-pc/v6/css/pages/company.412a2b2b.css"/>
+
+    <script>
+        var $CONFIG = {
+            "compId": 6016092,
+            "isFollowed": false,
+            "introductionList": "[{\"videoUrl\":\"https:\/\/1500000890.vod2.myqcloud.com\/438181a1vodtranscq1500000890\/0ac4ec32387702300907734629\/v.f100030.mp4\",\"imgId\":\"https:\/\/1500000890.vod2.myqcloud.com\/6c9793f9vodcq1500000890\/0ac4ec32387702300907734629\/niPDmY.jpeg\",\"videoTime\":271,\"id\":57459,\"type\":0}]",
+            "address": "%E6%B7%B1%E5%9C%B3%E6%B7%B1%E5%9C%B3%E6%B9%BE%E5%88%9B%E6%96%B0%E7%A7%91%E6%8A%80%E4%B8%AD%E5%BF%83",
+            "point": "{\"lng\":\"113.946874\",\"lat\":\"22.52835\"}",
+            "compProductList": "%5B%5D",
+            "shielded": false,
+            "compFullName": "%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"
+        }
+    </script>
+</head>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?a2647413544f5a04f00da7eee0d5e200";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<body>
+
+<!-- header -->
+
+    <section id='lp-seo-header-container'><header id="framework-pc-header-container"><nav class="header-content-box"><a id="header-logo-box" href="https://www.liepin.com" title="猎聘"><img src="" title="猎聘" alt=""/></a><a id="header-city-box" href="https://www.liepin.com/citylist/" title="城市切换"><div class="header-city-box"><svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><path d="M5 .25a3.65 3.65 0 012.646 1.152 4.033 4.033 0 011.104 2.79c0 .531-.073.98-.236 1.409a4.093 4.093 0 01-.747 1.228l-.179.2-2.326 2.528L2.428 7.04a7.282 7.282 0 01-.36-.413 3.863 3.863 0 01-.475-.785 4.076 4.076 0 01-.343-1.649c0-1.088.422-2.075 1.104-2.79A3.65 3.65 0 015 .25zm0 1.5a2.24 2.24 0 00-1.59.66 2.243 2.243 0 000 3.18 2.244 2.244 0 003.179 0A2.246 2.246 0 005 1.75z" fill="#FFF" stroke="#FFF" stroke-width="0.5" opacity="0.4"></path></svg><span>全国</span><svg width="6" height="3" viewBox="0 0 6 3" xmlns="http://www.w3.org/2000/svg"><path d="M3.283 2.717L5.317.683A.4.4 0 005.034 0H.966a.4.4 0 00-.283.683l2.034 2.034a.4.4 0 00.566 0z" fill="#FFF" fill-rule="evenodd"></path></svg></div></a><ul class="header-nav-menu"><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-home" href="https://www.liepin.com">首页</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-job" href="https://www.liepin.com/zhaopin/?init=1">职位</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-campus" href="https://www.liepin.com/campus/?t=1" class="ant-dropdown-trigger"><span>校园</span></a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-community" href="https://blade.liepin.com">社区</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-template" href="https://www.liepin.com/resume/template/home/">简历模板</a></li><li class="header-menu-item header-nav-menu-item"><a id="header-nav-menu-resume-optimization" href="https://vas.liepin.com/view-intro?utm_content=pcjuhexiala&amp;imscid=R000014437" target="_blank" class="ant-dropdown-trigger"><span>简历优化</span></a></li><li class="header-menu-item header-nav-menu-item download-app-item"><span id="header-nav-menu-download-app">猎聘APP</span><div id="fix-header-download-app-modal"><img src="" alt=""/></div></li></ul><div class="header-quick-menu-box"><ul class="header-quick-menu-not-login"><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-hunter" target="_blank" href="https://h.liepin.com/#sfrom=click-pc_homepage-front_navigation-hunter_new">我是猎头</a></li><li class="header-menu-item header-quick-menu-not-login-item"><a id="header-quick-menu-recruiter" target="_blank" data-selector="c-logout" data-backurl="https://lpt.liepin.com/user/login#sfrom=click-pc_homepage-front_navigation-ecomphr_new" href="javascript:void(0);">我是招聘方</a><svg width="28" height="14" viewBox="0 0 28 14" xmlns="http://www.w3.org/2000/svg" class="recruiter-min-logo"><g fill="none" fill-rule="evenodd"><path d="M4 0h23a1 1 0 011 1v9a4 4 0 01-4 4H1a1 1 0 01-1-1V4a4 4 0 014-4z" fill="#FF6400" fill-rule="nonzero"></path><text font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFF"><tspan x="2" y="10.5">NEW</tspan></text></g></svg></li><li class="header-menu-item header-quick-menu-not-login-item"><span id="header-quick-menu-login">登录/注册</span></li></ul></div></nav></header></section>
+
+<div class="main">
+    <!-- 公司header -->
+    <div class="company-header" data-selector="company-header">
+        <div class="company-header-content">
+            <div class="company-header-content-name clearfix">
+                <img class="logo" src="https://image0.lietou-static.com/bg_white_80x80/5bfea36974719d2aa34c880a03a.png"
+                     alt="中海物业"/>
+                <div class="name-right">
+                    <div class="title-box">
+                        <span class="title" data-selector="company-name">中海物业</span>
+                        <div class="follow-icon" data-selector="company-unfollow">
+                            <span class="icon"><svg viewBox="0 0 8 9" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M4.5.5V4H8v1H4.499L4.5 8.5h-1L3.499 5H0V4h3.5V.5h1z" fill-rule="evenodd"
+                                    fill="#FFFFFF"/></svg></span>
+                            <span class="text">关注</span>
+                        </div>
+
+                        <div class="follow-icon-text" data-selector="company-followed">已关注</div>
+                        <!-- 屏蔽公司 -->
+                        <div class="btn-shield-company" data-selector="shield-company">屏蔽该公司</div>
+                        <div class="btn-cancel-shield-company" data-selector="cancel-shield-company">取消屏蔽</div>
+                        
+                    </div>
+                    <p>
+                        
+                            
+                            
+                                物业管理<span>·</span>
+                            
+                        
+                            
+                            
+                                10000人以上<span>·</span>
+                            
+                        
+                            
+                                港股上市
+                            
+                            
+                        
+                    </p>
+                </div>
+            </div>
+
+            <!-- 企业榜单 -->
+            
+
+
+            <!-- 非凡雇主 -->
+            
+            <!-- 工作时间和工作标签 -->
+            
+                <div data-selector="company-tags-box"
+                     class="company-header-content-tags">
+                    <div data-selector="company-tags" class="tags-container">
+                        
+
+                        
+                            
+                                <!-- 最后一个标签 -->
+                                
+
+                                
+                                    <div class="tags-item">
+                                        <span>带薪年假</span>
+                                        
+                                    </div>
+                                
+                            
+                                <!-- 最后一个标签 -->
+                                
+
+                                
+                                    <div class="tags-item">
+                                        <span>午餐补助</span>
+                                        
+                                    </div>
+                                
+                            
+                                <!-- 最后一个标签 -->
+                                
+
+                                
+                                    <div class="tags-item">
+                                        <span>定期体检</span>
+                                        
+                                    </div>
+                                
+                            
+                                <!-- 最后一个标签 -->
+                                
+
+                                
+                                    <div class="tags-item">
+                                        <span>五险一金</span>
+                                        
+                                    </div>
+                                
+                            
+                                <!-- 最后一个标签 -->
+                                
+                                    <div class="tags-item-end" >
+                                        <div class="tags-item-text">
+                                            <span>岗位晋升</span>
+                                            
+                                        </div>
+                                        <div class="end-tips" data-selector="company-tags-tips">
+                                            <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g id="CPC2.0-公司主页-简介" transform="translate(-944.000000, -231.000000)">
+                                                        <g id="编组-15" transform="translate(0.000000, 63.000000)">
+                                                            <g id="编组-9" transform="translate(368.000000, 162.000000)">
+                                                                <g id="问题-圆形_Question-Circle" transform="translate(576.000000, 6.000000)">
+                                                                    <path d="M0,0 L16,0 L16,16 L0,16 L0,0 Z" id="矩形"></path>
+                                                                    <path d="M8,1 C11.865625,1 15,4.134375 15,8 C15,11.865625 11.865625,15 8,15 C4.134375,15 1,11.865625 1,8 C1,4.134375 4.134375,1 8,1 Z M8,2.26666667 C4.83393568,2.26666667 2.26666667,4.83393568 2.26666667,8 C2.26666667,11.1660643 4.83393568,13.7333333 8,13.7333333 C11.1660643,13.7333333 13.7333333,11.1660643 13.7333333,8 C13.7333333,4.83393568 11.1660643,2.26666667 8,2.26666667 Z M8.02999215,9.96666667 C8.26292844,9.96666667 8.46807994,10.0432566 8.63317661,10.1974822 C8.78939206,10.3536977 8.87265881,10.5535379 8.87265881,10.7833333 C8.87265881,11.0145813 8.78825813,11.2227696 8.62507625,11.3854294 C8.45447937,11.5347017 8.25900057,11.6086667 8.02999215,11.6086667 C7.80019668,11.6086667 7.60035646,11.5253999 7.45224138,11.3767628 C7.27929628,11.2254358 7.19599215,11.0255059 7.19599215,10.7833333 C7.19599215,10.5411608 7.27929628,10.3412308 7.44414102,10.1974822 C7.59770156,10.0439217 7.79635725,9.96666667 8.02999215,9.96666667 Z M8.18599215,4.64289192 C8.79575094,4.64289192 9.29174023,4.80743814 9.66507625,5.14346248 C10.0494312,5.47977304 10.2419921,5.94191936 10.2419921,6.51689192 C10.2419921,6.97779689 10.1222515,7.37054606 9.87854117,7.69438605 L9.84942744,7.72545975 L9.71012175,7.86139389 L9.49772931,8.05671504 L9.11164891,8.39911729 C8.98328774,8.49895376 8.88350416,8.62321257 8.81173001,8.76676086 C8.75182994,8.88656099 8.71583108,9.01620394 8.70382754,9.15675247 L8.69932548,9.26422526 L8.69932548,9.55222526 L7.36932548,9.55222526 L7.36932548,9.26422526 C7.36932548,8.89812935 7.4302898,8.59096296 7.55915853,8.34258932 C7.6548321,8.14388269 7.88012106,7.87788266 8.23836962,7.53516916 L8.46930066,7.32026008 L8.59678271,7.20576003 L8.6983326,7.08735229 C8.8298854,6.92656553 8.89465881,6.75563569 8.89465881,6.57755859 C8.89465881,6.33854521 8.82659998,6.15227895 8.70080768,6.01940972 C8.57248436,5.8910864 8.38298503,5.82555859 8.12532548,5.82555859 C7.80054926,5.82555859 7.58311174,5.9177521 7.44468817,6.10462377 C7.33838862,6.2484408 7.27721581,6.45795943 7.26358353,6.73881026 L7.26065881,6.86355859 L7.26065881,7.03022526 L5.93932548,7.03022526 L5.93932548,6.86355859 C5.93932548,6.17341676 6.14094433,5.62951474 6.55286889,5.23632923 C6.95921224,4.83943572 7.5043873,4.64289192 8.18599215,4.64289192 Z" id="形状结合" fill="#FFFFFF"></path>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <div class="tags-item-tips">工作时间和福利信息由企业提供，每个岗位可能实际情况略有不同，具体内容可与企业招聘方确认</div>
+                                    </div>
+                                
+
+                                
+                            
+                        
+                    </div>
+
+                    <!-- 换行时展示这个标签 前端控制 -->
+                    <div data-selector="company-tags-more-btn" class="more-btn">
+                        <img src="https://concat.lietou-static.com/fe-www-pc/v6/static/images/pages/company/header/tags-open.15421590.png">
+                    </div>
+                </div>
+            
+
+            <div class="company-header-content-tab clearfix">
+                <a class="active" href="https://www.liepin.com/company/6016092/">简介</a>
+                
+                    <a href="https://www.liepin.com/company-jobs/6016092/">热招职位(212)</a>
+                
+                
+                <!-- 后端自己换跳转链接 -->
+                <a class="complete-resume-link" href="javascript:;" data-selector="complete-resume-link">
+                    <img src="https://concat.lietou-static.com/fe-www-pc/v6/static/images/pages/company/header/resume-link.4b876348.png">
+                    <span>请填写在线简历</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="company-header-space"></div>
+
+    <!-- 固定的tab框 -->
+    <div class="company-header-tab-fix" data-selector="company-header-tab-fix" style="display: none;">
+        <div class="fix-content clearfix">
+            <a class="active" href="https://www.liepin.com/company-jobs/6016092/">简介</a>
+            <!-- 热招职位 -->
+            
+                <a href="https://www.liepin.com/company-jobs/6016092/">热招职位(212)</a>
+            
+
+            <!-- 相似职位 -->
+            
+            <!-- 后端自己换跳转链接 -->
+            <a class="complete-resume-link" data-selector="complete-resume-link"
+               href="javascript:;">
+                <img src="https://concat.lietou-static.com/fe-www-pc/v6/static/images/pages/company/header/resume-link-fix.4b876348.png">
+                <span>请填写在线简历</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- 企业介绍 -->
+    
+        <div class="company-introduction">
+            <div class="company-introduction-content clearfix">
+                <!-- 没有视频图片时 -->
+                
+
+                
+                    <div class="company-introduction-media" id="company-introduction-media" data-id="company-introduction-media"></div>
+                
+                <div class="company-introduction-left">
+                    <div class="company-introduction-text" data-selector="company-introduction-text" style="height: 186px; overflow: hidden;">
+                        <div class="inner-text">中海物业隶属于中国建筑集团有限公司旗下中国海外集团,是中国首批获得一级资质的物业管理品牌。中海物业最早于1986年在香港开展物业服务，1991年进入中国内地。2015年10月23日，中海物业在香港联交所主板上市，股票代码：2669.HK。2021年入选恒生物业服务及管理指数。中海物业拥有36年不动产与客户全生命周期管理服务经验，业务遍及港澳及内地141个主要城市，第三方调查客户满意度保持行业标杆水平。</div>
+                        <div class="company-introduction-text-overflow"
+                             data-selector="company-introduction-text-overflow">...
+                        </div>
+                    </div>
+                    <a class="introduction-view-more"
+                       data-selector="introduction-view-more">查看全部</a>
+                    <a class="introduction-view-no-more" data-selector="introduction-view-no-more">收起</a>
+                </div>
+            </div>
+        </div>
+    
+
+    <!-- 职位 -->
+    
+        <!--简介下  相似职位-->
+        
+
+        <!-- 热招职位 -->
+        
+            <!--简介下 职位-->
+            <div class="hot-recruit-comp">
+                <div class="hot-recruit-header">
+                    <span class="hot">热招职位</span>
+                    <a href="https://www.liepin.com/company-jobs/6016092/" class="more">
+                        查看更多
+                        <svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <title>右箭头</title>
+                            <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+                                <g id="CPC2.0-公司主页-未登录" transform="translate(-1547.000000, -700.000000)" stroke="#FF6400" stroke-width="1.5">
+                                    <g id="编组-3" transform="translate(368.000000, 692.000000)">
+                                        <g id="路径-9" transform="translate(1180.000000, 9.000000)">
+                                            <path d="M-2,2 L1.64644661,5.64644661 C1.84170876,5.84170876 2.15829124,5.84170876 2.35355339,5.64644661 L6,2 L6,2" transform="translate(2.000000, 4.000000) scale(-1, 1) rotate(90.000000) translate(-2.000000, -4.000000) "></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+                <ul class="hot-recruit-content" data-info="%7B%22head_id%22%3A%2258b7d21e815419c1b5f6c17083bf369b%22%2C%22ck_id%22%3A%2258b7d21e815419c1b5f6c17083bf369b%22%2C%22cur_page%22%3A1%2C%22page_size%22%3A6%7D">
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1950919595.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=0"
+                           target="_blank" data-info="%7B%22job_id%22%3A50919595%2C%22job_kind%22%3A2%7D">
+                            <div class="name">暖通工程师</div>
+                            <div class="salary">10-15k</div>
+                        </a>
+                        <div class="info-box">
+                            <span>西安-高新区</span>
+                            <span >5-10年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>本科</div>
+                                
+                            
+                                
+                                    <div>暖通工程</div>
+                                
+                            
+                                
+                                    <div>建筑施工</div>
+                                
+                            
+                                
+                                    <div>给排水工程</div>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;50919595&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1950913017.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=1"
+                           target="_blank" data-info="%7B%22job_id%22%3A50913017%2C%22job_kind%22%3A2%7D">
+                            <div class="name">工程经理</div>
+                            <div class="salary">8-12k</div>
+                        </a>
+                        <div class="info-box">
+                            <span>杭州-滨江区</span>
+                            <span >5-10年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>学历不限</div>
+                                
+                            
+                                
+                                    <div>工程管理</div>
+                                
+                            
+                                
+                                    <div>经营管理</div>
+                                
+                            
+                                
+                                    <div>办公物业</div>
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;50913017&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1950912939.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=2"
+                           target="_blank" data-info="%7B%22job_id%22%3A50912939%2C%22job_kind%22%3A2%7D">
+                            <div class="name">环境主任</div>
+                            <div class="salary">7-8k</div>
+                        </a>
+                        <div class="info-box">
+                            <span>杭州-滨江区</span>
+                            <span >5-10年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>学历不限</div>
+                                
+                            
+                                
+                                    <div>环境管理</div>
+                                
+                            
+                                
+                                    <div>卫生防疫</div>
+                                
+                            
+                                
+                                    <div>团队管理</div>
+                                
+                            
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;50912939&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1950351283.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=3"
+                           target="_blank" data-info="%7B%22job_id%22%3A50351283%2C%22job_kind%22%3A2%7D">
+                            <div class="name">物业工程经理（深圳）</div>
+                            <div class="salary">9-12k·13薪</div>
+                        </a>
+                        <div class="info-box">
+                            <span>深圳-南山区</span>
+                            <span >5-10年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>本科</div>
+                                
+                            
+                                
+                                    <div>物业工程</div>
+                                
+                            
+                                
+                                    <div>工程管理</div>
+                                
+                            
+                                
+                                    <div>商业物业</div>
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;50351283&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1946855157.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=4"
+                           target="_blank" data-info="%7B%22job_id%22%3A46855157%2C%22job_kind%22%3A2%7D">
+                            <div class="name">储备项目经理（互联网项目）</div>
+                            <div class="salary">15-20k·14薪</div>
+                        </a>
+                        <div class="info-box">
+                            <span>深圳-南山区</span>
+                            <span >3-5年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>大专</div>
+                                
+                            
+                                
+                                    <div>品质管理</div>
+                                
+                            
+                                
+                                    <div>客户服务</div>
+                                
+                            
+                                
+                                    <div>治安管理</div>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;46855157&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                    <li class="recruit-item" >
+                        <a class="name-box"
+                           href="https://www.liepin.com/job/1946853461.shtml?d_sfrom=comp_profile&amp;d_ckId=58b7d21e815419c1b5f6c17083bf369b&amp;d_curPage=0&amp;d_pageSize=6&amp;d_headId=58b7d21e815419c1b5f6c17083bf369b&amp;d_posi=5"
+                           target="_blank" data-info="%7B%22job_id%22%3A46853461%2C%22job_kind%22%3A2%7D">
+                            <div class="name">储备项目经理（学校项目）</div>
+                            <div class="salary">15-20k·14薪</div>
+                        </a>
+                        <div class="info-box">
+                            <span>深圳-南山区</span>
+                            <span >3-5年</span>
+                        </div>
+
+                        <div class="label-box">
+                            
+                                
+                                    <div>大专</div>
+                                
+                            
+                                
+                                    <div>品质管理</div>
+                                
+                            
+                                
+                                    <div>客户服务</div>
+                                
+                            
+                                
+                                    <div>经营管理</div>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                        </div>
+                        
+                            <button type="button" class="ant-btn ant-btn-primary ant-btn-round chat-btn" data-selector="chat-chat" data-params="{&quot;imUserType&quot;:&quot;2&quot;,&quot;recruiterName&quot;:&quot;熊先生&quot;,&quot;recruiterPhoto&quot;:&quot;5f8f98698dbe6273dcf8516008u.jpg&quot;,&quot;imId&quot;:&quot;125932e7dc23caef4a7a04e7d95591ea&quot;,&quot;jobId&quot;:&quot;46853461&quot;,&quot;jobKind&quot;:&quot;2&quot;,&quot;userId&quot;:&quot;aadc08a71e7534d6b6f1201ec27975a1&quot;,&quot;recruiterTitle&quot;:&quot;招聘经理&quot;}">
+                                <span>聊一聊</span>
+                            </button>
+                        
+                        
+                    </li>
+                </ul>
+            </div>
+        
+    
+
+    <!-- 公司高管 -->
+    
+
+    <!-- 产品服务 -->
+    <div id="company-product-root"></div>
+
+    <!-- 联系方式 -->
+    
+
+    <!-- 公司地址 -->
+    <div id="company-address-root"></div>
+
+    <!-- 工商信息 -->
+    
+        <div class="business-register-comp">
+            <div class="business-register-header">
+                <div class="title">工商信息</div>
+                <div class="extra-box">
+                    <span>数据来源：</span>
+                    <a rel="nofollow" href="https://www.qixin.com?from=sem_liepin1" target="_blank">
+                        <img src="//image0.lietou-static.com/img/6193647837c3e1611d2e005003u.png"
+                             alt=""/>
+                    </a>
+                </div>
+            </div>
+            
+            
+                <div class="business-register-content hide">
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="15px" height="16px" viewBox="0 0 15 16">
+                                <g fillRule="nonzero" fill="none">
+                                    <path
+                                            d="M14.985 12.943c0 1.673-1.347 3.041-2.994 3.041H3.01c-1.647 0-2.994-1.368-2.994-3.041V.776c0-.418.337-.76.748-.76h8.983c.411 0 .748.342.748.76v2.281h3.743c.411 0 .748.342.748.76v9.126zm-4.491 0c0 .836.674 1.52 1.497 1.52.824 0 1.497-.684 1.497-1.52V4.578h-2.994v8.365zm-7.485 1.52h6.4a2.98 2.98 0 01-.412-1.52V1.537H1.512v11.406c0 .836.673 1.52 1.497 1.52z"
+                                            fill="#333"></path>
+                                    <path
+                                            d="M5.629 6.1H3.383a.757.757 0 00-.749.76c0 .417.337.76.75.76h2.245a.757.757 0 00.748-.76.757.757 0 00-.748-.76m1.497-3.043H3.383a.757.757 0 00-.749.76c0 .419.337.761.75.761h3.742a.757.757 0 00.748-.76.757.757 0 00-.748-.76"
+                                            fill="#F64"></path>
+                                </g>
+                            </svg>
+                            <span class="name">企业全称</span>
+                        </p>
+                        <p class="text">中海物业管理有限公司</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g
+                                        transform="translate(.5 .5)"
+                                        fillRule="nonzero"
+                                        stroke-width="1.6"
+                                        fill="none"
+                                >
+                                    <circle stroke="#353535" cx="8.5" cy="8.5" r="7.7"></circle>
+                                    <path
+                                            stroke="#F64"
+                                            strokeLinecap="round"
+                                            d="M7.846 5.885v3.923h3.923"></path>
+                                </g>
+                            </svg>
+                            <span class="name">成立时间</span>
+                        </p>
+                        <p class="text">1995年04月07日</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="16px" viewBox="0 0 18 16">
+                                <g fill="none" fillRule="evenodd">
+                                    <rect stroke="#333" stroke-width="1.6" x="0.8" y="0.8" width="16.4"
+                                          height="14.4" rx="2"></rect>
+                                    <path
+                                            d="M9.6 4v1.143h1.8v1.143H9.6v1.143h.6c.993 0 1.8.769 1.8 1.714s-.807 1.715-1.8 1.715h-.6V12H8.4v-1.142H6.6V9.714h1.8V8.572h-.6c-.993 0-1.8-.77-1.8-1.715 0-.945.807-1.714 1.8-1.714h.6V4h1.2zm.524 4.577h-.6V9.72h.6c.33 0 .6-.257.6-.572 0-.315-.27-.57-.6-.57zm-1.75-2.34h-.6c-.33 0-.6.257-.6.572 0 .316.27.572.6.572h.6V6.238z"
+                                            fill="#F64"></path>
+                                </g>
+                            </svg>
+                            <span class="name">注册资本</span>
+                        </p>
+                        <p class="text">50000万人民币</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                    <g transform="translate(-1213.000000, -1790.000000)" fill-rule="nonzero"
+                                       stroke-width="1.6">
+                                        <g transform="translate(1213.000000, 1789.000000)">
+                                            <g transform="translate(0.000000, 1.000000)">
+                                                <g transform="translate(0.500000, 0.500000)">
+                                                    <g id="分组-14" stroke="#353535">
+                                                        <circle id="椭圆形-copy" cx="8.5" cy="8.5" r="7.7"></circle>
+                                                    </g>
+                                                    <circle id="椭圆形" stroke="#FF6644" cx="8.5" cy="6.53846154"
+                                                            r="3.26923077"></circle>
+                                                    <path d="M12.381432,12.604342 C11.690855,10.9506095 10.2121991,9.80769231 8.49954832,9.80769231 C6.7857881,9.80769231 5.30632603,10.9520907 4.61632359,12.6075564"
+                                                          id="路径" stroke="#353535"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">法人代表</span>
+                        </p>
+                        <p class="text">张贵清</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z"></path>
+                                    <g fillRule="nonzero">
+                                        <path
+                                                d="M8.86 4.977a3.11 3.11 0 00-3.106 3.107A3.11 3.11 0 008.86 11.19a3.11 3.11 0 003.106-3.107 3.112 3.112 0 00-3.106-3.107h0zm0 5.231a2.128 2.128 0 01-2.126-2.124 2.13 2.13 0 012.127-2.127 2.13 2.13 0 012.126 2.127 2.13 2.13 0 01-2.126 2.124h0z"
+                                                stroke="#F64"
+                                                stroke-width="0.4"
+                                                fill="#F64"></path>
+                                        <path
+                                                d="M8.81 1.107a6.704 6.704 0 00-6.698 6.696c0 .974.205 1.914.61 2.793.197.428.465.851.845 1.333.137.173.497.557.645.707l4.476 4.375c.07.069.16.107.257.107h.006a.36.36 0 00.256-.115l4.238-4.395c.772-.787 1.307-1.577 1.637-2.415.287-.727.42-1.487.42-2.389A6.698 6.698 0 008.81 1.107h0zm5.974 6.696c0 1.434-.718 3.082-1.873 4.303L9.28 15.88a.49.49 0 01-.698.011l-3.836-3.733c-.362-.365-.823-.894-1.043-1.249a5.928 5.928 0 01-.872-3.105A5.983 5.983 0 018.808 1.83a5.98 5.98 0 015.976 5.974z"
+                                                stroke="#333"
+                                                stroke-width="0.7"
+                                                fill="#333"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">注册地址</span>
+                        </p>
+                        <p class="text">深圳市南山区粤海街道高新区社区科苑南路3156号深圳湾创新科技中心2栋A座501-509</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g>
+                                        <path
+                                                d="M8.379 1.35a1.482 1.482 0 011.482 0h0l5.618 3.243c.459.265.741.754.741 1.283h0v6.488a1.481 1.481 0 01-.74 1.283h0L9.86 16.891a1.482 1.482 0 01-1.482 0h0l-5.618-3.244a1.482 1.482 0 01-.741-1.283h0V5.876c0-.53.282-1.018.74-1.283h0z"
+                                                stroke="#333"
+                                                stroke-width="1.596"></path>
+                                        <path
+                                                d="M11.41 6.898L9.1 8.306 6.83 6.941c-.43-.258-.799.422-.367.68l2.311 1.39v3.138c0 .216.167.391.373.391a.382.382 0 00.372-.391V8.995c0-.013-.006-.024-.007-.036l2.265-1.382c.432-.258.064-.937-.368-.68h0z"
+                                                stroke="#F64"
+                                                stroke-width="0.57"
+                                                fill="#F64"
+                                                fillRule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">统一信用代码</span>
+                        </p>
+                        <p class="text">91440300618888347D</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g>
+                                        <g transform="translate(.5 2)">
+                                            <rect stroke="#333" stroke-width="1.408" x="0.704" y="2.869"
+                                                  width="15.916" height="11.585" rx="2.165"></rect>
+                                            <path fill="#333"
+                                                  d="M1.083 6.496h5.414v1.408H1.083zM10.827 6.496h5.414v1.408h-5.414z"></path>
+                                            <path d="M4.33 3.248V1.083C4.33.485 4.817 0 5.415 0h6.496c.598 0 1.082.485 1.082 1.083v2.165"
+                                                  stroke="#333" stroke-width="1.516"></path>
+                                            <rect stroke="#F64" stroke-width="1.083" x="8.337" y="5.955" width="1"
+                                                  height="3.248" rx="0.5"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">所属行业</span>
+                        </p>
+                        <p class="text">物业管理</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)" fillRule="nonzero" stroke-width="0.3">
+                                        <path
+                                                d="M17.113 15.924h-.325c.014-.08.02-.162.021-.244V6.713a1.547 1.547 0 00-1.548-1.546h-3.066a1.53 1.53 0 00-.244.021v-2.64c0-.854-.691-1.547-1.545-1.548h-7.23A1.547 1.547 0 001.63 2.545V15.68c0 .082.007.163.02.244h-.5a.65.65 0 000 1.301h15.962a.65.65 0 000-1.301zm-13.937 0a.244.244 0 01-.244-.244V2.548c0-.135.11-.244.244-.244h7.233c.134 0 .243.11.244.244V15.68c0 .135-.11.244-.244.244H3.176zm9.022 0a.244.244 0 01-.244-.244V6.713c0-.135.109-.245.244-.245h3.063a.244.244 0 01.244.245v8.967c0 .135-.11.244-.244.244h-3.063z"
+                                                stroke="#333"
+                                                fill="#333"></path>
+                                        <path
+                                                d="M8.562 4.126H4.991a.65.65 0 000 1.301h3.571a.65.65 0 100-1.301h0zm.024 3.21H5.015a.65.65 0 100 1.3h3.571a.65.65 0 100-1.3h0zm-.023 3.21H4.99a.65.65 0 000 1.3h3.572a.65.65 0 000-1.3h0z"
+                                                stroke="#F64"
+                                                fill="#F64"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">所在地</span>
+                        </p>
+                        <p class="text">深圳</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)">
+                                        <path
+                                                d="M14.198 2.135h-1.051v-.459A1.658 1.658 0 0011.489.018H5.916a1.658 1.658 0 00-1.658 1.658v.459H3.206a1.7 1.7 0 00-1.7 1.7V16.18a1.7 1.7 0 001.7 1.7h10.992a1.7 1.7 0 001.7-1.7V3.835a1.7 1.7 0 00-1.7-1.7zm-8.67-.19c0-.363.293-.657.656-.657h5.037a.656.656 0 01.656.656v1.65a.656.656 0 01-.656.657H6.184a.656.656 0 01-.657-.656v-1.65zm9.1 14.095a.571.571 0 01-.571.571H3.347a.571.571 0 01-.571-.571V3.976a.571.571 0 01.571-.572h.91v.459c0 .916.743 1.658 1.659 1.658h5.573c.915 0 1.658-.742 1.658-1.658v-.459h.91a.571.571 0 01.571.572V16.04z"
+                                                stroke="#333"
+                                                stroke-width="0.2"
+                                                fill="#333"
+                                                fillRule="nonzero"></path>
+                                        <path
+                                                d="M10.795 7.888l.668.72a.5.5 0 01-.02.7L7.632 12.99a.7.7 0 01-.351.184l-1.03.202a.4.4 0 01-.455-.521l.313-.925a.7.7 0 01.169-.272l3.8-3.784a.5.5 0 01.718.014z"
+                                                fill="#F64"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">登记机关</span>
+                        </p>
+                        <p class="text">深圳市市场监督管理局</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)">
+                                        <g transform="translate(1 1)">
+                                            <rect stroke="#333" stroke-width="1.2" x="3.6" y="0.6" width="1"
+                                                  height="3.8" rx="0.5"></rect>
+                                            <rect stroke="#333" stroke-width="1.2" x="12.1" y="0.6" width="1"
+                                                  height="3.8" rx="0.5"></rect>
+                                            <rect stroke="#333" stroke-width="1.6" x="0.8" y="2.8" width="14.4"
+                                                  height="12.4" rx="2"></rect>
+                                            <path stroke="#F64" stroke-width="1.6"
+                                                  d="M2.39 8.8h11.208v1H2.39z"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">营业期限</span>
+                        </p>
+                        <p class="text">1995-04-07</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)" stroke-width="1.2">
+                                        <path
+                                                d="M6.474 11.126l.4 4.874L2 16.4l-.4-4.874 4.874-.4zm8.633 0l.4 4.874-4.875.4-.4-4.874 4.875-.4zM6.474 2.493l.4 4.875-4.874.4-.4-4.875 4.874-.4z"
+                                                stroke="#333"></path>
+                                        <path
+                                                d="M16.31 4.788l-3.098 3.784-3.784-3.098 3.098-3.785 3.785 3.099z"
+                                                stroke="#F64"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">企业类型</span>
+                        </p>
+                        <p class="text">有限责任公司(外国法人独资)</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)" fillRule="nonzero">
+                                        <path
+                                                d="M2.137 7.309a.616.616 0 01-.198-.033.644.644 0 01-.399-.81C2.6 3.205 5.571 1.016 8.936 1.016c3.348 0 6.315 2.174 7.384 5.41a.645.645 0 01-.395.813.625.625 0 01-.796-.403C14.233 4.123 11.744 2.3 8.936 2.3c-2.822 0-5.315 1.836-6.203 4.569a.63.63 0 01-.596.44h0zm6.8 9.613c-3.453 0-6.448-2.263-7.454-5.632a.644.644 0 01.418-.8.626.626 0 01.784.427c.843 2.825 3.355 4.723 6.251 4.723 2.884 0 5.463-1.971 6.272-4.793a.627.627 0 01.78-.435.644.644 0 01.426.796c-.965 3.364-4.04 5.714-7.478 5.714h0z"
+                                                stroke="#333"
+                                                stroke-width="0.2"
+                                                fill="#333"></path>
+                                        <path
+                                                d="M8.103 12.261a.624.624 0 01-.59-.423L6.254 8.294l-.894 1.078a.623.623 0 01-.48.228H.64a.641.641 0 010-1.283h3.95L5.996 6.62a.622.622 0 011.07.196l1.206 3.398 1.127-1.71a.623.623 0 011.107.125l.301.79.636-.95a.625.625 0 01.519-.28h5.325a.641.641 0 010 1.282h-4.994l-1.12 1.677a.623.623 0 01-1.105-.13l-.298-.78-1.146 1.74a.625.625 0 01-.521.283z"
+                                                fill="#F64"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">经营状态</span>
+                        </p>
+                        <p class="text">存续</p>
+                    </div>
+                    <div class="business-register-content-item">
+                        <p class="name-box">
+                            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                                <g fill="none" fillRule="evenodd">
+                                    <path d="M0 0h18v18H0z" fill="#fff"></path>
+                                    <g mask="url(#prefix__b)" fillRule="nonzero">
+                                        <path
+                                                d="M7.14 7.693l-.79 4.934 4.085-3.313.494-4.66L7.14 7.692zm1.684 1.552a.79.79 0 110-1.579.79.79 0 010 1.58z"
+                                                stroke="#F64"
+                                                stroke-width="0.2"
+                                                fill="#F64"></path>
+                                        <path
+                                                d="M8.64.017C3.876.017.014 3.877.014 8.64c0 4.762 3.862 8.623 8.626 8.623 4.764 0 8.626-3.86 8.626-8.623 0-4.762-3.862-8.623-8.626-8.623zm0 15.675a7.052 7.052 0 110-14.104 7.052 7.052 0 010 14.104z"
+                                                fill="#333"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                            <span class="name">经营范围</span>
+                        </p>
+                        <p class="text">一般经营项目是：物业管理；企业形象策划；从事房地产经纪；体育场馆的管理与运营；日用百货、建筑材料、汽车配件、办公器械、纺织品、五金交电、化工产品（不含危险化学品）的批发、佣金代理（拍卖除外）、进出口及相关配套业务；企业管理咨询；商务信息咨询；计算机软件、信息系统软件的开发、销售；信息系统设计、集成、运行维护；信息技术咨询；为医院、学校、银行、酒店、超市、公园、景区提供后勤管理服务；道路养护服务；从事房地产销售；绿植租摆；代理记账。（以上不涉及外商投资特别管理措施规定的项目，法律、行政法规、国务院决定规定在登记前须经批准的项目除外，限制的项目须取得许可后方可经营）；装卸搬运；家政服务；洗车服务；居民日常生活服务；婚庆礼仪服务；翻译服务；项目策划与公关服务；平面设计；摄影扩印服务；摄像及视频制作服务；新能源汽车整车销售；汽车租赁；汽车零配件零售；汽车零配件批发；汽车装饰用品销售；汽车拖车、求援、清障服务；广告制作；广告发布（非广播电台、电视台、报刊出版单位）；广告设计、代理；电子产品销售；家居用品销售；办公用品销售；五金产品零售；日用百货销售；针纺织品销售；建筑装饰材料销售；化妆品批发；化妆品零售；新鲜蔬菜批发；新鲜蔬菜零售；新鲜水果批发；新鲜水果零售；花卉绿植租借与代管理；礼品花卉销售；业务培训（不含教育培训、职业技能培训等需取得许可的培训）；自行车及零配件批发；自行车修理；电动自行车维修；电动自行车销售；共享自行车服务；服装服饰批发；服装服饰零售；服装服饰出租；母婴用品销售；母婴生活护理（不含医疗服务）；会议及展览服务；充电桩销售；机动车充电销售；停车场服务；体育场地设施经营（不含高危险性体育运动）；园林绿化工程施工；劳动保护用品销售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动，许可经营项目是：餐饮服务；劳务派遣服务；从事停车场经营管理业务；从事小区会所游泳池的经营（凭有效《卫生许可证》经营）；预包装食品、酒类的批发；机电设备（不含特种设备）安装、维修；建筑工程设计、施工；园林绿化工程施工及养护。国际货物运输代理；养老服务；食品经营（仅销售预包装食品）；机动车修理和维护；酒类经营；建设工程设计；食品经营销售。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）；住宅室内装饰装修。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）</p>
+                    </div>
+                </div>
+            
+            
+                <!-- 如果是未登录态 商信息不为空且未设置对外不展示时，蒙层隐藏工商信息 -->
+                <div class="business-register-content-hide">
+                    <div>登录查看工商信息</div>
+                    <a href="javascript:;"
+                       data-selector="register-mask-btn">登录/注册</a>
+                </div>
+            
+        </div>
+    
+
+    <!-- 融资情况 -->
+    
+        <div class="financing-info-comp">
+            <div class="inner">
+                <div class="financing-info-header">融资情况</div>
+                <div class="financing-info-content swiper-container">
+                    <div class="swiper-wrapper">
+                        
+                            <div class="financing-slide swiper-slide">
+                                
+                                    <div class="financing-step">
+                                        <div class="date-box">
+                                            
+                                                <span class="month">10</span><span
+                                                    class="year">2015</span>
+                                            
+                                            
+                                        </div>
+                                        <div class="dot-box">
+                                            <i class="dot"></i>
+                                        </div>
+                                        <div class="text-box">
+                                            IPO
+                                            未披露
+                                        </div>
+                                        <div class="agency-box">投资机构：
+                                            
+                                                
+                                                    公开发行
+                                                    
+                                                
+                                            
+                                            
+                                        </div>
+                                    </div>
+                                
+                                
+                                    
+                                        <div class="financing-step">
+                                            <div class="date-box">
+                                                <span class="month">&nbsp;</span><span class="year">&nbsp;</span>
+                                            </div>
+                                            <div class="dot-box">
+                                                <i class="dot"></i><span class="rest-text">融资时间线</span>
+                                            </div>
+                                        </div>
+                                    
+                                
+                                <div class="financing-line"></div>
+                            </div>
+                            <div class="financing-line"></div>
+                        
+                    </div>
+                    <div class="swiper-button-prev"><svg class="icon-up" width="32px" height="34px" viewBox="0 0 32 34" version="1.1"
+                                                         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="CPC2.0-公司主页-简介" transform="translate(-1521.000000, -1723.000000)">
+                                <g id="右"
+                                   transform="translate(1537.000000, 1740.000000) scale(-1, 1) translate(-1537.000000, -1740.000000) translate(1521.000000, 1723.000000)">
+                                    <path
+                                            d="M0,0 L0,0 L14.5078125,0 C23.8966532,0 31.5078125,7.61115925 31.5078125,17 C31.5078125,26.3888407 23.8966532,34 14.5078125,34 L0.28515625,34 L0.28515625,34"
+                                            id="路径" fill-opacity="0.3" fill="#000000"></path>
+                                    <polyline id="路径-copy-2" stroke="#FFFFFF" stroke-width="2.5"
+                                              stroke-linecap="round" fill-rule="nonzero"
+                                              transform="translate(15.529412, 16.529412) rotate(-45.000000) translate(-15.529412, -16.529412) "
+                                              points="12 20.0588235 12 13 19.0588235 13"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </svg></div>
+                    <div class="swiper-button-next"><svg class="icon-up" width="32px" height="34px" viewBox="0 0 32 34" version="1.1"
+                                                         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="CPC2.0-公司主页-简介" transform="translate(-1521.000000, -1723.000000)">
+                                <g id="右"
+                                   transform="translate(1537.000000, 1740.000000) scale(-1, 1) translate(-1537.000000, -1740.000000) translate(1521.000000, 1723.000000)">
+                                    <path
+                                            d="M0,0 L0,0 L14.5078125,0 C23.8966532,0 31.5078125,7.61115925 31.5078125,17 C31.5078125,26.3888407 23.8966532,34 14.5078125,34 L0.28515625,34 L0.28515625,34"
+                                            id="路径" fill-opacity="0.3" fill="#000000"></path>
+                                    <polyline id="路径-copy-2" stroke="#FFFFFF" stroke-width="2.5"
+                                              stroke-linecap="round" fill-rule="nonzero"
+                                              transform="translate(15.529412, 16.529412) rotate(-45.000000) translate(-15.529412, -16.529412) "
+                                              points="12 20.0588235 12 13 19.0588235 13"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </svg></div>
+                </div>
+            </div>
+        </div>
+    
+
+    <!-- 相关公司 -->
+    
+
+</div>
+
+
+<!--前端控制内容区 结束  -->
+<div class="brum-link-box">
+
+    <!-- 面包屑 + 内链-->
+    
+    <section class="common-page-container">
+        <div class="seo-common-hot-links">
+            <div class="common-hot-links-container" data-selector="common-hot-links-container">
+                <ul class="common-hot-links-tab" data-selector="common-hot-links-tab">
+                    <li class="hot-links-tab-active">热门城市</li>
+                    <li>相关推荐</li>
+                    <li>相关公司</li>
+                    <li>热门企业</li>
+                </ul>
+                <div class="common-hot-links-content hot-links-content-active" data-selector="common-hot-links-content">
+                    <a href="https://www.liepin.com/city-bj/" target="_blank" title="北京招聘网">北京招聘网</a><a href="https://www.liepin.com/city-sh/" target="_blank" title="上海招聘网">上海招聘网</a><a href="https://www.liepin.com/city-gz/" target="_blank" title="广州招聘网">广州招聘网</a><a href="https://www.liepin.com/city-xiamen/" target="_blank" title="厦门招聘网">厦门招聘网</a><a href="https://www.liepin.com/city-hz/" target="_blank" title="杭州招聘网">杭州招聘网</a><a href="https://www.liepin.com/city-zhengzhou/" target="_blank" title="郑州招聘网">郑州招聘网</a><a href="https://www.liepin.com/city-nj/" target="_blank" title="南京招聘网">南京招聘网</a><a href="https://www.liepin.com/city-tj/" target="_blank" title="天津招聘网">天津招聘网</a><a href="https://www.liepin.com/city-cq/" target="_blank" title="重庆招聘网">重庆招聘网</a><a href="https://www.liepin.com/city-cd/" target="_blank" title="成都招聘网">成都招聘网</a><a href="https://www.liepin.com/city-suzhou/" target="_blank" title="苏州招聘网">苏州招聘网</a><a href="https://www.liepin.com/city-shangqiu/" target="_blank" title="商丘招聘网">商丘招聘网</a><a href="https://www.liepin.com/city-dl/" target="_blank" title="大连招聘网">大连招聘网</a><a href="https://www.liepin.com/city-jinan/" target="_blank" title="济南招聘网">济南招聘网</a><a href="https://www.liepin.com/city-ningbo/" target="_blank" title="宁波招聘网">宁波招聘网</a><a href="https://www.liepin.com/city-wuxi/" target="_blank" title="无锡招聘网">无锡招聘网</a><a href="https://www.liepin.com/city-qingdao/" target="_blank" title="青岛招聘网">青岛招聘网</a><a href="https://www.liepin.com/city-shenyang/" target="_blank" title="沈阳招聘网">沈阳招聘网</a><a href="https://www.liepin.com/city-taizhou/" target="_blank" title="台州招聘网">台州招聘网</a><a href="https://www.liepin.com/city-xian/" target="_blank" title="西安招聘网">西安招聘网</a><a href="https://www.liepin.com/city-wuhan/" target="_blank" title="武汉招聘网">武汉招聘网</a>
+                </div>
+                <div class="common-hot-links-content" data-selector="common-hot-links-content">
+                    <a href="https://www.liepin.com/city-sz/zpabzjm6l9b/" target="_blank" title="深圳安保专家招聘">深圳安保专家招聘</a><a href="https://www.liepin.com/city-sz/zpaczxzr1y10c/" target="_blank" title="深圳案场秩序主任招聘">深圳案场秩序主任招聘</a><a href="https://www.liepin.com/city-sz/zpanbaodudao/" target="_blank" title="深圳安保督导招聘">深圳安保督导招聘</a><a href="https://www.liepin.com/city-sz/zpanchangfujingli/" target="_blank" title="深圳案场副经理招聘">深圳案场副经理招聘</a><a href="https://www.liepin.com/city-sz/zpanquandiaodu/" target="_blank" title="深圳安全调度招聘">深圳安全调度招聘</a><a href="https://www.liepin.com/city-sz/zpanquanjiankong/" target="_blank" title="深圳安全监控招聘">深圳安全监控招聘</a><a href="https://www.liepin.com/city-sz/zpanquanjiankongguanli/" target="_blank" title="深圳安全监控管理招聘">深圳安全监控管理招聘</a><a href="https://www.liepin.com/city-sz/zpanquanjiankongguanliyuan/" target="_blank" title="深圳安全监控管理员招聘">深圳安全监控管理员招聘</a><a href="https://www.liepin.com/city-sz/zpanquanjishi/" target="_blank" title="深圳安全技师招聘">深圳安全技师招聘</a><a href="https://www.liepin.com/city-sz/zpanquankefu/" target="_blank" title="深圳安全客服招聘">深圳安全客服招聘</a><a href="https://www.liepin.com/city-sz/zpanquanzhibanyuan/" target="_blank" title="深圳安全值班员招聘">深圳安全值班员招聘</a><a href="https://www.liepin.com/city-sz/zpaqscgljl/" target="_blank" title="深圳安全生产管理经理招聘">深圳安全生产管理经理招聘</a><a href="https://www.liepin.com/city-sz/zpbabjkf/" target="_blank" title="深圳保安保洁客服招聘">深圳保安保洁客服招聘</a><a href="https://www.liepin.com/city-sz/zpbaoanneibao/" target="_blank" title="深圳保安内保招聘">深圳保安内保招聘</a><a href="https://www.liepin.com/city-sz/zpbaoanrenyuan/" target="_blank" title="深圳保安人员招聘">深圳保安人员招聘</a><a href="https://www.liepin.com/city-sz/zpbaoanzhixuyuan/" target="_blank" title="深圳保安秩序员招聘">深圳保安秩序员招聘</a><a href="https://www.liepin.com/city-sz/zpbaoanzuchang/" target="_blank" title="深圳保安组长招聘">深圳保安组长招聘</a><a href="https://www.liepin.com/city-sz/zpbaojiegongren/" target="_blank" title="深圳保洁工人招聘">深圳保洁工人招聘</a><a href="https://www.liepin.com/city-sz/zpbaojieguanliyuan/" target="_blank" title="深圳保洁管理员招聘">深圳保洁管理员招聘</a><a href="https://www.liepin.com/city-sz/zpbaoliwuyechanpinjingli/" target="_blank" title="深圳保利物业产品经理招聘">深圳保利物业产品经理招聘</a><a href="https://www.liepin.com/city-sz/zpbczxqkjs9v1y/" target="_blank" title="深圳巴川中学全科教师招聘">深圳巴川中学全科教师招聘</a><a href="https://www.liepin.com/city-sz/zpbczxxkjs1n1z/" target="_blank" title="深圳巴川中学学科教师招聘">深圳巴川中学学科教师招聘</a><a href="https://www.liepin.com/city-sz/zpbieshuwuyexiangmujingli/" target="_blank" title="深圳别墅物业项目经理招聘">深圳别墅物业项目经理招聘</a><a href="https://www.liepin.com/city-sz/zpbieshuxiaoshouguwen/" target="_blank" title="深圳别墅销售顾问招聘">深圳别墅销售顾问招聘</a><a href="https://www.liepin.com/city-sz/zpbinggoufuzong/" target="_blank" title="深圳并购副总招聘">深圳并购副总招聘</a><a href="https://www.liepin.com/city-sz/zpbsfcxsjl/" target="_blank" title="深圳别墅房产销售经理招聘">深圳别墅房产销售经理招聘</a><a href="https://www.liepin.com/city-sz/zpbsfwjl/" target="_blank" title="深圳别墅服务经理招聘">深圳别墅服务经理招聘</a><a href="https://www.liepin.com/city-sz/zpbsxmkf/" target="_blank" title="深圳别墅项目客服招聘">深圳别墅项目客服招聘</a><a href="https://www.liepin.com/city-sz/zpbsxsjlgd/" target="_blank" title="深圳别墅销售经理高端招聘">深圳别墅销售经理高端招聘</a><a href="https://www.liepin.com/city-sz/zpbtjsy7q5h/" target="_blank" title="深圳吧台酒水员招聘">深圳吧台酒水员招聘</a>
+                </div>
+                <div class="common-hot-links-content" data-selector="common-hot-links-content">
+                    <a href="https://www.liepin.com/company/8676188/" target="_blank" title="深圳链家房地产经纪有限公司">深圳链家房地产经纪有限公司</a><a href="https://www.liepin.com/company/9428294/" target="_blank" title="深圳市乐有家房产交易有限公司">深圳市乐有家房产交易有限公司</a><a href="https://www.liepin.com/company/428656/" target="_blank" title="万物云空间科技服务股份有限公司">万物云空间科技服务股份有限公司</a><a href="https://www.liepin.com/company/9822857/" target="_blank" title="深圳市乐有家控股集团有限公司">深圳市乐有家控股集团有限公司</a><a href="https://www.liepin.com/company/8338816/" target="_blank" title="正中集团">正中集团</a><a href="https://www.liepin.com/company/7862699/" target="_blank" title="金地智慧服务">金地智慧服务</a><a href="https://www.liepin.com/company/7899366/" target="_blank" title="世联行集团">世联行集团</a><a href="https://www.liepin.com/company/8179350/" target="_blank" title="深圳金丰易居置业有限公司">深圳金丰易居置业有限公司</a><a href="https://www.liepin.com/company/8217627/" target="_blank" title="深圳市万科物业服务有限公司">深圳市万科物业服务有限公司</a><a href="https://www.liepin.com/company/1478964/" target="_blank" title="保利物业">保利物业</a><a href="https://www.liepin.com/company/6016092/" target="_blank" title="中海物业">中海物业</a><a href="https://www.liepin.com/company/2293621/" target="_blank" title="实正共盈">实正共盈</a><a href="https://www.liepin.com/company/8448646/" target="_blank" title="中原地产代理(深圳)有限公司">中原地产代理(深圳)有限公司</a><a href="https://www.liepin.com/company/8289815/" target="_blank" title="润加物业服务(深圳)有限公司">润加物业服务(深圳)有限公司</a><a href="https://www.liepin.com/company/8097519/" target="_blank" title="京基百纳">京基百纳</a><a href="https://www.liepin.com/company/8426013/" target="_blank" title="智善生活">智善生活</a><a href="https://www.liepin.com/company/7869301/" target="_blank" title="卓越物业">卓越物业</a><a href="https://www.liepin.com/company/8799364/" target="_blank" title="深圳招商物业管理有限公司">深圳招商物业管理有限公司</a><a href="https://www.liepin.com/company/6865529/" target="_blank" title="特发服务">特发服务</a><a href="https://www.liepin.com/company/9424098/" target="_blank" title="广东碧桂园房地产信息咨询有限公司深圳分公司">广东碧桂园房地产信息咨询有限公司深圳分公司</a><a href="https://www.liepin.com/company/8504582/" target="_blank" title="长城物业集团股份有限公司">长城物业集团股份有限公司</a><a href="https://www.liepin.com/company/9572641/" target="_blank" title="深圳吉胜物业管理有限公司">深圳吉胜物业管理有限公司</a><a href="https://www.liepin.com/company/9833275/" target="_blank" title="深圳乐有家房产交易有限公司">深圳乐有家房产交易有限公司</a><a href="https://www.liepin.com/company/8694860/" target="_blank" title="碧桂园服务">碧桂园服务</a><a href="https://www.liepin.com/company/9500502/" target="_blank" title="大悦城控股集团物业服务有限公司深圳分公司">大悦城控股集团物业服务有限公司深圳分公司</a><a href="https://www.liepin.com/company/7917396/" target="_blank" title="深圳市皇庭房地产开发有限公司">深圳市皇庭房地产开发有限公司</a><a href="https://www.liepin.com/company/12518197/" target="_blank" title="卓越物业">卓越物业</a><a href="https://www.liepin.com/company/7952688/" target="_blank" title="天安运营">天安运营</a><a href="https://www.liepin.com/company/8278873/" target="_blank" title="明喆集团有限公司">明喆集团有限公司</a>
+                </div>
+                <div class="common-hot-links-content" data-selector="common-hot-links-content">
+                    <a href="https://www.liepin.com/company/12512997/" target="_blank" title="德佑房地产经纪有限公司上海第一千八百七十一分公司">德佑房地产经纪有限公司上海第一千八百七十一分公司</a><a href="https://www.liepin.com/company/8694860/" target="_blank" title="碧桂园服务">碧桂园服务</a><a href="https://www.liepin.com/company/8645047/" target="_blank" title="融创服务集团">融创服务集团</a><a href="https://www.liepin.com/company/9389380/" target="_blank" title="世茂天成物业服务集团有限公司">世茂天成物业服务集团有限公司</a><a href="https://www.liepin.com/company/8597478/" target="_blank" title="苏南万科">苏南万科</a><a href="https://www.liepin.com/company/8577786/" target="_blank" title="轩天">轩天</a><a href="https://www.liepin.com/company/616691/" target="_blank" title="麦田房产">麦田房产</a><a href="https://www.liepin.com/company/12985743/" target="_blank" title="万物梁行">万物梁行</a><a href="https://www.liepin.com/company/8191874/" target="_blank" title="旭辉永升服务">旭辉永升服务</a><a href="https://www.liepin.com/company/428656/" target="_blank" title="万物云空间科技服务股份有限公司">万物云空间科技服务股份有限公司</a><a href="https://www.liepin.com/company/8370979/" target="_blank" title="保利地产投资顾问有限公司">保利地产投资顾问有限公司</a><a href="https://www.liepin.com/company/8005817/" target="_blank" title="绿城物业">绿城物业</a><a href="https://www.liepin.com/company/9375486/" target="_blank" title="广东康景物业服务有限公司">广东康景物业服务有限公司</a><a href="https://www.liepin.com/company/8640322/" target="_blank" title="新城控股集团商业管理事业部">新城控股集团商业管理事业部</a><a href="https://www.liepin.com/company/10287805/" target="_blank" title="万达商管">万达商管</a><a href="https://www.liepin.com/company/8224761/" target="_blank" title="世邦魏理仕">世邦魏理仕</a><a href="https://www.liepin.com/company/6865529/" target="_blank" title="特发服务">特发服务</a><a href="https://www.liepin.com/company/878643/" target="_blank" title="我爱我家集团">我爱我家集团</a><a href="https://www.liepin.com/company/10095035/" target="_blank" title="建发物业服务集团有限公司">建发物业服务集团有限公司</a><a href="https://www.liepin.com/company/9119624/" target="_blank" title="新城悦控股有限公司">新城悦控股有限公司</a><a href="https://www.liepin.com/company/9135663/" target="_blank" title="广东实地物业管理有限公司">广东实地物业管理有限公司</a><a href="https://www.liepin.com/company/9110770/" target="_blank" title="上海上房物业服务股份有限公司">上海上房物业服务股份有限公司</a><a href="https://www.liepin.com/company/8217433/" target="_blank" title="杭州万科物业服务有限公司">杭州万科物业服务有限公司</a><a href="https://www.liepin.com/company/8109562/" target="_blank" title="高地物业">高地物业</a><a href="https://www.liepin.com/company/1189929/" target="_blank" title="策源地产">策源地产</a><a href="https://www.liepin.com/company/7931853/" target="_blank" title="世茂商投">世茂商投</a><a href="https://www.liepin.com/company/12518197/" target="_blank" title="卓越物业">卓越物业</a><a href="https://www.liepin.com/company/8217428/" target="_blank" title="佛山市万科物业服务有限公司">佛山市万科物业服务有限公司</a><a href="https://www.liepin.com/company/8323569/" target="_blank" title="时代邻里集团">时代邻里集团</a><a href="https://www.liepin.com/company/9469403/" target="_blank" title="五指山仁商基业有限公司">五指山仁商基业有限公司</a>
+                </div>
+            </div>
+            
+            <div class="common-current-position">
+                <div class="row-label">当前位置：</div>
+                <div class="row-content" >
+                    
+                        <a href="https://www.liepin.com/">招聘网</a> <span>></span>
+                    
+                        <a href="https://www.liepin.com/city-sz/">深圳招聘网</a> <span>></span>
+                    
+                        <a href="https://www.liepin.com/city-sz/zhaopin/?scene=seo">深圳招聘信息</a> <span>></span>
+                    
+                        <a href="https://www.liepin.com/company/6016092/">中海物业</a> 
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="phone-link">
+        <strong>手机版：</strong>
+        <a title="中海物业" href="https://m.liepin.com/company/6016092/" target="_blank">中海物业</a>
+    </div>
+
+</div>
+
+<!-- 右侧通栏 -->
+<section id="lp-sider-bar-container"></section>
+<!-- seo热链 -->
+
+<!-- common -->
+
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/polyfill-vendors.60528aa8.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/react-vendors.84adeb74.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/runtime.a56cc465.js"></script>
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-www-pc/v6/js/common.06aaaff2.js"></script>
+
+<script crossorigin="anonymous" src="https://concat.lietou-static.com/fe-www-pc/v6/js/pages/company.9f1b4634.js"></script>
+<!-- footer -->
+
+    <script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+
+<!-- imc -->
+
+    <script>
+        (function () {
+            var imEntryScript = '<script crossOrigin="anonymous" src="//concat.lietou-static.com/fe-imc-pc/v6/latest/entry.js?q='.concat(
+                Math.floor(Date.now() / 180000),
+                '"><\/script>'
+            );
+            document.write(imEntryScript);
+        })();
+    </script>
+
+<!-- tlog -->
+
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v6/tlog/2.0.10/tlog.min.js"></script>
+
+<!--对接百度因子组件，与seo组确认只用pubDate ,以前优先用upDate-->
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+            "appid": "1586030202028057",
+            "@id": "https://www.liepin.com/company/6016092/",
+            "title": "【中海物业招聘】-猎聘",
+            "description": "猎聘为您提供2022年中海物业招聘信息，更有中海物业企业介绍、中海物业地址、中海物业工作环境以及中海物业招聘岗位信息，全面的为您提供中海物业高薪职位，求职找工作就上猎聘网。",
+            "pubDate": "2013-06-18T13:15:22",
+            "update" : "2022-07-22T16:04:48",
+            "data": {
+                "WebPage": {
+                    "headline": "【中海物业招聘】-猎聘",
+                    "pcUrl": "https://www.liepin.com/company/6016092/",
+                    "wapUrl": "https://m.liepin.com/company/6016092/",
+                    "datePublished": "2013-06-18T13:15:22"
+                }
+            }
+        }
+    </script>
+    
+    
+
+<!--<div th:replace="fragment::baiDuYinZi(
+    isDetail=true,isPub=true,
+    pcUrl=${pcUrl},
+    mobileUrl=${wapUrl},
+    title='【'+${compPageInfo.compShowName}+'】-猎聘',
+    descr='+${compPageInfo.compShowName}+怎么样？猎聘为您提供+${compPageInfo.compShowName}++${seo_cur_year}+招聘信息、公司介绍、公司地址、公司规模、薪资待遇等详细信息，让您在选择+${compPageInfo.compShowName}+前有一个全面的了解。',
+    pubDate='+${datePublished}+')">
+</div>-->
+
+ <!--<script th:inline="javascript" th:if="${not #strings.isEmpty(upDate)}" type="application/ld+json">
+    {
+        "@context":"https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+        "appid": "1586030202028057",
+        "@id":"https://www.liepin.com/company/6016092/",
+        "title":"【中海物业2022招聘信息】-猎聘",
+        "description":"中海物业怎么样？猎聘为您提供中海物业2022招聘信息、公司介绍、公司地址、公司规模、薪资待遇等详细信息，让您在选择中海物业前有一个全面的了解。",
+        "pubDate":"2013-06-18T13:15:22",
+        "upDate": "2022-07-22T16:04:48",
+        "data":{
+            "WebPage":{
+                "headline":"【中海物业2022招聘信息】-猎聘",
+                "pcUrl":"https://www.liepin.com/company/6016092/",
+                "wapUrl":"https://m.liepin.com/company/6016092/",
+                "datePublished":"2013-06-18T13:15:22"
+            }
+        }
+    }
+</script>-->
+<!--<script th:inline="javascript" th:if="${#strings.isEmpty(upDate)}" type="application/ld+json">
+    {
+        "@context":"https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+        "appid": "1586030202028057",
+        "@id":"https://www.liepin.com/company/6016092/",
+        "title":"【中海物业2022招聘信息】-猎聘",
+        "description":"中海物业怎么样？猎聘为您提供中海物业2022招聘信息、公司介绍、公司地址、公司规模、薪资待遇等详细信息，让您在选择中海物业前有一个全面的了解。",
+        "pubDate":"2013-06-18T13:15:22",
+        "data":{
+            "WebPage":{
+                "headline":"【中海物业2022招聘信息】-猎聘",
+                "pcUrl":"https://www.liepin.com/company/6016092/",
+                "wapUrl":"https://m.liepin.com/company/6016092/",
+                "datePublished":"2013-06-18T13:15:22"
+            }
+        }
+    }
+</script>-->
+
+</body>
+</html>

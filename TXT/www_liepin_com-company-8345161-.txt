@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- Published by Yangtuo Web System v2.0, DNA: m~COMPANY~e~8345161~t~diy-01~p~index 2018-9-13 19:26:49 -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index,nofollow" />
+<title>北京奔驰 - 猎聘网招聘官网 - 首页</title>
+<!--#set var='compatible' value='<%@ page pageEncoding="utf-8"%>'-->
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
+<link rel="icon" href="//concat.lietou-static.com/fe-www-pc/v5/static/favicon.e6edbc00.ico" type="image/x-icon" />
+<link rel="dns-prefetch" href="//concat.lietou-static.com" />
+<script src="//concat.lietou-static.com/core/pc/js/common/FileManagerClass.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/js/common/html5shiv.js');
+</script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/js/common/DD_belatedPNG.js');
+</script>
+<script>
+DD_belatedPNG.fix('.pngfix');
+</script>
+<![endif]-->
+<script>
+FileManager.get('//concat.lietou-static.com/pics/pc/p/beta2/css/common.css', '//concat.lietou-static.com/pics/pc/p/beta2/css/public.css', '//concat.lietou-static.com/core/pc/js/common/jquery-1.7.1.min.js', '//concat.lietou-static.com/core/pc/js/common/lt.core.js', '//concat.lietou-static.com/core/pc/js/port/www/plugins/jquery.artDialog.js', '//concat.lietou-static.com/core/pc/js/common/plugins/jquery.loadingui.js', '//concat.lietou-static.com/core/pc/js/common/plugins/jquery.tipsui.js', '//concat.lietou-static.com/pics/pc/p/beta2/js/lt.apps.js');
+</script>
+<link rel="stylesheet" type="text/css" href="./css/style.css" />
+<style type="text/css">.flex-direction-nav{
+  display: none;  /* 隐藏手柄 */
+}</style>
+</head>
+<body>
+<div class="header">
+<div class="wrap">
+<div class="logo"><img src="https://image0.lietou-static.com/img/5ab0819b8e50636470f63c4205a.png" width="200" height="69" /></div>
+<div class="navbar"><ul class="Label-Navbar">
+  
+    <li>
+      <a href="http://www.bbac.com.cn" target="_blank" data-id="1421827932491">公司官网</a>
+    </li>
+  
+    <li>
+      <a href="./1421827932487.shtml" data-id="1421827932487">招聘职位</a>
+    </li>
+  
+    <li class="active">
+      <a href="./index.shtml" data-id="index">首页</a>
+    </li>
+  
+</ul></div>
+</div>
+</div>
+<div id="index">
+<div class="banner"><div class="flexslider" style="height:420px">
+  <ul class="slides">
+    
+      <li style="height:420px;background: url(https://image0.lietou-static.com/img/5ab081c48e50a83b2ccf827305a.jpg) center center no-repeat;"></li>
+    
+      <li style="height:420px;background: url(https://image0.lietou-static.com/img/5ab081c88e504b50a495a82505a.jpg) center center no-repeat;"></li>
+    
+      <li style="height:420px;background: url(https://image0.lietou-static.com/img/5ab081ce8e505f3110f066ba05a.jpg) center center no-repeat;"></li>
+    
+      <li style="height:420px;background: url(https://image0.lietou-static.com/img/5ab081d18e50827f63b8973f05a.jpg) center center no-repeat;"></li>
+    
+  </ul>
+</div></div>
+<div class="wrap">
+<div class="main" style="font-family: 'Microsoft Yahei'; text-align: justify;">
+<h2 style="font-family: 'Microsoft Yahei'; text-align: justify;">企业简介<em>Company Profile</em></h2>
+<span style="font-family: 'Microsoft Yahei'; font-size: 16px;"><span style="font-family: 'Microsoft Yahei'; font-size: 16px;">&nbsp; &nbsp; &nbsp;</span><span style="font-family: 'Microsoft Yahei';">北京奔驰汽车有限公司（简称北京奔驰）成立于<span lang="EN-US">2005</span>年<span lang="EN-US">8</span>月<span lang="EN-US">8</span>日，是北京汽车股份有限公司与戴姆勒股份公司、戴姆勒大中华区投资有限公司共同投资，集研发、发动机与整车生产、销售和售后服务为一体的中德合资企业。</span></span>
+<p><span><img src="https://image0.lietou-static.com/img/5b9a1acb8e50fb8f55781b3f04a.jpg" alt="" width="522" height="303" /></span></p>
+<p><span><span style="font-size: 16px;">目前，北京奔驰业已成为戴姆勒全球同时拥有前驱车、后驱车、电动车三大车型平台，以及发动机与动力电池工厂的合资企业，并实现了发动机核心零部件与整机的出口，成为梅赛德斯<span lang="EN-US">-</span>奔驰全球生产网络的重要组成部分。以此为依托，北京奔驰引入了梅赛德斯<span lang="EN-US">-</span>奔驰八大主力车型：<span lang="EN-US">EQC</span>纯电<span lang="EN-US">SUV</span>、<span lang="EN-US">AMG A 35 L</span>、长轴距<span lang="EN-US">A</span>级轿车、长轴距<span lang="EN-US">C</span>级车、长轴距<span lang="EN-US">E</span>级车、长轴距<span lang="EN-US">GLC SUV</span>、<span lang="EN-US">GLB SUV</span>以及<span lang="EN-US">GLA SUV</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+<p><span><img src="https://image0.lietou-static.com/img/5b9a1ade8e50a3257f4872e304a.jpg" alt="" width="522" height="303" /></span></p>
+<p><span style="font-size: 16px;">同时，为保证用户的利益，北京奔驰还基于戴姆勒全球标准建立了质量中心，并根据戴姆勒德国的要求，以全球统一的标准和质量管理体系进行奔驰车辆的生产，确保驶出北京奔驰的每一辆新车均符合梅赛德斯<span lang="EN-US">-</span>奔驰全球品质。<span lang="EN-US"><o:p></o:p></span></span></p>
+<p><span><img src="https://image0.lietou-static.com/img/5b9a1af38e50b2deb612a21504a.jpg" alt="" width="530" height="338" /></span></p>
+<p><span style="font-size: 16px;">此外，作为首都汽车工业持续向高精尖方向转型升级的代表，北京奔驰还集世界先进的制造工艺与现代化的管理于一身，并以工匠精神为依托，将&ldquo;数字化、柔性化、高效、可持续&rdquo;全面贯彻到生产的每个环节，不断促进自身高质量发展，接连荣获&ldquo;全球卓越运营工厂&rdquo;、&ldquo;绿色示范工厂&rdquo;、&ldquo;北京市智能制造标杆企业&rdquo;及&ldquo;中德智能制造合作试点示范&rdquo;等荣誉称号，以实际行动推动高质量发展。</span></p>
+<p><span style="font-size: 16px;">秉承&ldquo;行则致极&rdquo;的企业精神，未来的北京奔驰将继续以&ldquo;奔驰车，中国造！&rdquo;为使命，以&ldquo;星徽闪耀<span lang="EN-US">@BBAC</span>&rdquo;为愿景，向着成为&ldquo;走向世界的、国际化的中国高端汽车品牌标杆企业&ldquo;的目标不断前行！</span></p>
+<span style="font-family: 'Microsoft Yahei'; font-size: 16px;"></span></div>
+<div class="side">
+<h2>企业风采<em>Company Style</em></h2>
+<div class="comp-style">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://image0.lietou-static.com/img/5ab0a66d8e50bea0c1e5b8c605a.png" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a6748e50047be9f1804c05a.png" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a67e8e50897dd57eb37005a.png" alt="" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a6858e50ab980b86729905a.png" alt="" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a68e8e50636470f654c405a.png" alt="" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a6958e50a83b2ccf982105a.png" alt="" width="260" height="170" /><img src="https://image0.lietou-static.com/img/5ab0a69d8e504b50a495bd5d05a.png" alt="" width="260" height="170" /></div>
+</div>
+</div>
+</div>
+<!--#set var='compatible' value='<%@ page pageEncoding="utf-8"%>'-->
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/css/common/footer.css');
+</script>
+<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="./js/page.js"></script>
+<script type="text/javascript">FileManager.get('//concat.lietou-static.com/core/pc/js/common/stat.js');</script>
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="//hm.baidu.com/hm.js?a2647413544f5a04f00da7eee0d5e200";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script> 
+
+<script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+</body>
+</html>

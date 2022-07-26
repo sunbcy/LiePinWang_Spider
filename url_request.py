@@ -140,7 +140,9 @@ def url_python_request(url):
                 print('本次访问被鉴定为爬虫!!')
             else:
                 if res.status_code == 200:
-                    save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','')+'.txt')
+                    if 'TXT' not in os.listdir(os.path.abspath('')):
+                        os.makedirs(os.path.join(os.path.abspath(''),'TXT'))
+                    save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','-')+'.txt')
                     with open(save_name,'w',encoding='utf-8') as f:
                         try:
                             f.write(res.text)
@@ -161,6 +163,8 @@ def url_python_request_proxy(url):
             res.encoding=res.apparent_encoding##将返回的网页源码转换成合适的编码
             print('{} 状态码:{}'.format(url, res.status_code))
             if res.status_code == 200:
+                if 'TXT' not in os.listdir(os.path.abspath('')):
+                    os.makedirs(os.path.join(os.path.abspath(''),'TXT'))
                 save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','')+'.txt')
                 with open(save_name,'w',encoding='utf-8') as f:
                     try:
@@ -417,7 +421,8 @@ if __name__=='__main__':
     # url='https://www.similarweb.com/zh/apps/top/google/app-index/us/all/top-free/'
     # url='https://www.similarweb.com/zh/apps/top/apple/store-rank/cn/all/top-free/iphone/'
     # url='https://www.liepin.com/'
-    url='https://www.liepin.com/job/1948895625.shtml'
+    url='https://www.liepin.com/company-jobs/2174886/'
+    # url='https://www.liepin.com/job/1948895625.shtml'
     # url_python_request(url)
     # download_pic(url,0)
     url_python_request(url)

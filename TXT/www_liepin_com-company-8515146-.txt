@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<!-- Published by Yangtuo Web System v2.0, DNA: m~COMPANY~e~8515146~t~diy-01~p~index 1/18/2019, 10:00:45 AM -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index,nofollow" />
+<title>招银网络科技(深圳)有限公司 - 猎聘网招聘官网 - 首页</title>
+<!--#set var='compatible' value='<%@ page pageEncoding="utf-8"%>'-->
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
+<link rel="icon" href="//concat.lietou-static.com/fe-www-pc/v5/static/favicon.e6edbc00.ico" type="image/x-icon" />
+<link rel="dns-prefetch" href="//concat.lietou-static.com" />
+<script src="//concat.lietou-static.com/core/pc/js/common/FileManagerClass.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/js/common/html5shiv.js');
+</script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/js/common/DD_belatedPNG.js');
+</script>
+<script>
+DD_belatedPNG.fix('.pngfix');
+</script>
+<![endif]-->
+<script>
+FileManager.get('//concat.lietou-static.com/pics/pc/p/beta2/css/common.css', '//concat.lietou-static.com/pics/pc/p/beta2/css/public.css', '//concat.lietou-static.com/core/pc/js/common/jquery-1.7.1.min.js', '//concat.lietou-static.com/core/pc/js/common/lt.core.js', '//concat.lietou-static.com/core/pc/js/port/www/plugins/jquery.artDialog.js', '//concat.lietou-static.com/core/pc/js/common/plugins/jquery.loadingui.js', '//concat.lietou-static.com/core/pc/js/common/plugins/jquery.tipsui.js', '//concat.lietou-static.com/pics/pc/p/beta2/js/lt.apps.js');
+</script>
+<link rel="stylesheet" type="text/css" href="./css/style.css" />
+<style type="text/css"></style>
+</head>
+<body>
+<div class="header">
+<div class="wrap">
+<div class="logo"><img src="//image0.lietou-static.com/img/56cffe8c45ce594f1f63f8da05a.jpg" height="69" width="300" /></div>
+<div class="navbar"><ul class="Label-Navbar">
+  
+    <li>
+      <a href="http://cmbnt.cmbchina.com/" target="_blank" data-id="1401334417051">企业官网</a>
+    </li>
+  
+    <li>
+      <a href="./joblist.shtml" data-id="joblist">社会招聘</a>
+    </li>
+  
+    <li class="active">
+      <a href="./index.shtml" data-id="index">首页</a>
+    </li>
+  
+</ul></div>
+</div>
+</div>
+<div id="index">
+<div class="banner"><div class="flexslider" style="height:420px">
+  <ul class="slides">
+    
+      <li style="height:420px;background:#fff url(//image0.lietou-static.com/img/56d0151f45ce60ffc8beb71c05a.jpg) center center no-repeat;"></li>
+    
+  </ul>
+</div></div>
+<div class="wrap">
+<div class="main">
+<h2>企业简介<em>Company Profile</em></h2>
+<p style="text-indent: 2em; font-size: 14px;"><span style="font-family: Microsoft Yahei; font-size: 16px;">招商银行是我国第一家完全由企业法人持股的股份制商业银行， 世界五百强企业，业务范围已涵盖传统商业银行、私人银行和投资银行等领域，在全球范围内为个人和公司客户提供全面和优质的金融服务。招商银行奉行&ldquo;人才立 行、科技兴行&rdquo;的战略，立足于市场和客户需求，充分发挥全行统一电子化平台的巨大优势，率先开发了一系列高技术的金融产品与服务，打造了&ldquo;一卡通&rdquo;、&ldquo;一 网通&rdquo;、&ldquo;金葵花理财&rdquo;、招商银行信用卡、&ldquo;财富账户&rdquo;等知名金融品牌，奠定了国内金融科技领先型银行的地位。</span></p>
+<p style="text-indent: 2em; font-size: 14px;"><span style="font-family: Microsoft Yahei; font-size: 16px;">招银网络科技有限公司（简称：招银科技）成立于 2002年，致力于为整个招商银行提供软件应用开发和维护。作为招商银行的重要一员，招银科技的核心业务是为招商银行全球化发展提供强有力的软件开发及技 术支持，其服务遍布中国、美国、欧洲及东南亚等多个国家与地区。公司以成为中国银行业最强大脑为己任，在彼此信任和尊重的基础上，追求高标准的交付和价值 创造。带着这个共同的愿景，同时凭借我们优秀的员工，招银科技成为了招商银行最重要的技术贡献者，同时也成为了招商银行重要的一份子。</span></p>
+<p style="text-indent: 2em; font-size: 14px;"><span style="font-family: Microsoft Yahei; font-size: 16px;">招银网络科技有限公司，现有招银网络科技（深圳）和招 银网络科技（杭州）两家分支机构，共同担负着招商银行电子信息化的重任。公司秉承&ldquo;以人为本&rdquo;的人才理念，为员工营造了优越的办公环境和职业发展通道，创 造人性化的工作氛围，并提供极具竞争力的薪酬福利待遇。公司十分重视人才的培养，将为员工提供全面系统的培训。IT培训学院是软件中心与招行培训中心共同 建立的专业学院，提供分专业、分层次的各类培训，致力于打造全方位、复合型的金融IT人才。</span></p>
+<p style="text-indent: 2em; font-size: 14px;"><span style="font-family: Microsoft Yahei; font-size: 16px;">您如果足够优秀，那么这里将会是您智慧闪光、价值实现和梦想腾飞的舞台，我们热忱期待您的加盟。</span></p>
+<p style="text-indent: 2em; font-size: 14px;"><span style="font-family: Microsoft Yahei; font-size: 16px;"></span></p>
+<pre><span style="font-family: Microsoft Yahei; font-size: 16px;">联系方式：<br /><br />深圳机构：深圳市南山区高新中区科技中一路招行信息研发大厦</span></pre>
+<pre><span style="font-family: Microsoft Yahei; font-size: 16px;">杭州机构：杭州市滨江区信诚路567号高新产业大楼B座</span></pre>
+<pre><span style="font-family: Microsoft Yahei; font-size: 16px;">公司网址：<a href="http://cmbnt.cmbchina.com">http://cmbnt.cmbchina.com</a></span></pre>
+<pre><span style="font-family: Microsoft Yahei; font-size: 16px;">E-mail：<a href="cmbntjobs@cmbchina.com">cmbntjobs@cmbchina.com</a></span></pre>
+<div id="position_info1" style="background: white;"><strong><span style="font-size: 16px; font-family: Microsoft Yahei;"></span></strong>
+<pre><img style="display: block; margin-left: auto; margin-right: auto;" src="//image0.lietou-static.com/img/56d3f0b545ce594f1f64d1ea06a.jpg" alt="" height="118" width="118" /></pre>
+</div>
+<div style="float: right; margin-top: -70px; margin-left: -200px; width: 500px;"></div>
+<div style="float: right; margin-top: -70px; margin-left: -200px; width: 500px;"></div>
+</div>
+<div class="side">
+<h2>企业风采<em>Company Style</em></h2>
+<div class="comp-style"><img src="//image0.lietou-static.com/img/56d0043b45ce60ffc8bead1505a.png" height="139" width="260" /> <img src="//image0.lietou-static.com/img/56d0044445ce60ffc8bead1b05a.png" height="160" width="260" /> <img src="//image0.lietou-static.com/img/56d0044c45ce60ffc8bead1e05a.png" height="177" width="260" /> <img src="//image0.lietou-static.com/img/56d0047245ce60ffc8bead3605a.png" height="164" width="260" />&nbsp;<img src="//image0.lietou-static.com/img/56d3bb4f45ce60ffc8bf4fd506a.jpg" alt="" height="175" width="260" /></div>
+</div>
+</div>
+</div>
+<!--#set var='compatible' value='<%@ page pageEncoding="utf-8"%>'-->
+<script type="text/javascript">
+FileManager.get('//concat.lietou-static.com/core/pc/css/common/footer.css');
+</script>
+<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="./js/page.js"></script>
+<script type="text/javascript">FileManager.get('//concat.lietou-static.com/core/pc/js/common/stat.js');</script>
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="//hm.baidu.com/hm.js?a2647413544f5a04f00da7eee0d5e200";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script> 
+
+<script src="//concat.lietou-static.com/fe-footer-pc/v6/footer-pc.js"></script>
+</body>
+</html>

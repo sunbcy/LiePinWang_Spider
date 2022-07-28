@@ -39,14 +39,15 @@ def main():
         id=company_num
         company_name=i
         company_href=HomeCompany_Dict[i]
-        company_id=''
-        company_jobs_href=''
-        jobs_href_accessed=''
+        company_id=HomeCompany_Dict[i].split('/')[-2]
+        company_jobs_href='https://www.liepin.com/company-jobs/'+str(company_id)
+        jobs_href_accessed='False'
         company_full_name=''
         company_location=''
         BusinessRegisterContentItem=''
         mtime=time.strftime('%Y-%m-%d %H:%M:%S')
         print(f"插入{i,HomeCompany_Dict[i]}")
+        #company_name company_href company_id company_jobs_href jobs_href_accessed有值
         db.insert_companyinfo(id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime)
         # break
     config.set('config','company_num',company_num)
@@ -130,35 +131,70 @@ def bad_web_content(content):
     db=MysqlClient()
     html=etree.HTML(content)
     web_title=html.xpath('//head/title/text()')[0]
-    print(web_title)
+    company_name=web_title.split('招聘')[0][1:]
+    print(company_name)
 
     config_mode='{(.*)}'
+    #找到Config中的最后一个script段
     head_script_config=html.xpath('//head/script/text()')[-1]
     try:
         company_config='{'+re.findall(config_mode,head_script_config,re.S|re.M)[0]+'}'
         company_config=json.loads(company_config)
-        compId=company_config['compId']
+        company_id=company_config['compId']
         #由company_jobs_href获取到更多的该公司的岗位,可能涉及到翻页,频繁访问.注意伪装
-        company_jobs_href='https://www.liepin.com/company-jobs/'+str(compId)
-        address=unquote(company_config['address'])
-        company_point=company_config['point']
+        company_jobs_href='https://www.liepin.com/company-jobs/'+str(company_id)
+        company_location=unquote(company_config['address'])
+        try:
+            company_longitude=json.loads(company_config['point'])['lng']
+            company_latitude=json.loads(company_config['point'])['lat']
+            company_point=str((company_longitude,company_latitude))
+        except KeyError as e:
+            if 'lng' in e.args:
+                company_point=''
         compProductList=unquote(company_config['compProductList'])
-        compFullName=unquote(company_config['compFullName'])
-        print(address)
+        company_full_name=unquote(company_config['compFullName'])
+        print(company_location)
         print(company_jobs_href)
         # # print(company_config)
         print(company_point)
         # print(compProductList)
-        print(compFullName)
+        print(company_full_name)
     except IndexError as e:
         print(f"跳过{web_title}")
-    RecruitItem=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/a[@class="name-box"]/div[@class="name"]/text()')
+        # quit()
+    # RecruitItem=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/a[@class="name-box"]/div[@class="name"]/text()')
     RecruitItemName=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/a[@class="name-box"]/div[@class="name"]/text()')
     RecruitItemSalary=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/a[@class="name-box"]/div[@class="salary"]/text()')
     RecruitItemInfoBox=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/div[@class="info-box"]')
     RecruitItemLabelBox=html.xpath('//ul[@class="hot-recruit-content"]/li[@class="recruit-item"]/div[@class="label-box"]')
     #工商信息
     BusinessRegisterContentItem=html.xpath('//div[@class="business-register-content-item"]/p[@class="text"]/text()')
+    BusinessRegisterContentItem=str(BusinessRegisterContentItem)
+    # print(RecruitItem)
+    # print(RecruitItemName)
+    # print(RecruitItemSalary)
+    # print(RecruitItemInfoBox)
+    # print(RecruitItemLabelBox)
+    # print(type(BusinessRegisterContentItem))
+    print(BusinessRegisterContentItem)
+    # # print(CommonHotLinksContentHref)
+    # # print(CommonHotLinksContentTitle)
+    # print(CommonHotLinks_Dicts)
+    # quit()
+    try:
+        
+        #对现存的部分网页TXT中的信息录入做判断,信息不对称时SQL不要用REPLACE语句
+        if db.query_existance('LiePinCompanyInfo','company_id',company_id):
+            db.update_companyinfo(company_id,company_location,company_point,company_full_name,BusinessRegisterContentItem)
+        else:
+            company_num=str(int(company_num)+1)
+            id=company_num
+            company_href='https://www.liepin.com/company/'+str(company_id)+'/'
+            db.insert_basic_companyinfo(id,company_name,company_id,company_href,company_jobs_href,company_full_name,company_location,company_point,BusinessRegisterContentItem)
+        # db.update_companyinfo(company_id,company_location,company_point,company_full_name,BusinessRegisterContentItem)
+    except UnboundLocalError as e:
+        if "local variable 'company_id' referenced before assignment" in e.args:
+            pass
     CommonHotLinksContentHref=html.xpath('//div[@class="common-hot-links-content"]/a/@href')
     CommonHotLinksContentTitle=html.xpath('//div[@class="common-hot-links-content"]/a/@title')
     CommonHotLinks_Dict=dict(zip(CommonHotLinksContentTitle,CommonHotLinksContentHref))
@@ -170,32 +206,31 @@ def bad_web_content(content):
             id=company_num
             company_name=i
             company_href=CommonHotLinks_Dict[i]
-            company_id=''
-            company_jobs_href=''
-            jobs_href_accessed=''
-            company_full_name=''
-            company_location=''
-            BusinessRegisterContentItem=''
+            new_company_id=CommonHotLinks_Dict[i].split('/')[-2]
+            if new_company_id==company_id:
+                continue
+            company_jobs_href='https://www.liepin.com/company-jobs/'+str(new_company_id)
+            jobs_href_accessed='False'
             mtime=time.strftime('%Y-%m-%d %H:%M:%S')
             print(f"插入{i,CommonHotLinks_Dict[i]}")
-            db.insert_companyinfo(id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime)
+            db.insert_hotlinks(id,company_name,company_href,new_company_id,company_jobs_href,jobs_href_accessed,mtime)
     config.set('config','company_num',company_num)
     config.write(open('config.ini','w'))
     
-        
-    # print(RecruitItemName)
-    # print(RecruitItemSalary)
-    # print(RecruitItemInfoBox)
-    # print(RecruitItemLabelBox)
-    # print(BusinessRegisterContentItem)
-    # # print(CommonHotLinksContentHref)
-    # # print(CommonHotLinksContentTitle)
-    # print(CommonHotLinks_Dicts)
-    # print(dict(zip(CommonHotLinksContentTitle,CommonHotLinksContentHref)))
-    # print(unquote(html.xpath('//ul[@class="hot-recruit-content"]/@data-info')[0]))
+    db.close()
+    
  
 if __name__ == '__main__':
+    """抓取首页"""
     # main()
+
+    """抓取现有TXT"""
+    company_list=[i for i in os.listdir(os.path.join(os.path.abspath(''),'TXT')) if ('company' in i and 'job' not in i)]
+    for i in company_list:
+        company_info_content=open(os.path.join(os.path.abspath(''),'TXT',i),'r',encoding='utf-8').read()
+        print(f"提取{i}")
+        bad_web_content(company_info_content)
+
     # second(test_txt_2)
     # bad_web_content(test_txt_3)
 
@@ -203,8 +238,4 @@ if __name__ == '__main__':
     #     second(url_python_request(i))
     #     break
 
-    company_list=[i for i in os.listdir(os.path.join(os.path.abspath(''),'TXT')) if ('company' in i and 'job' not in i)]
-    for i in company_list:
-        company_info_content=open(os.path.join(os.path.abspath(''),'TXT',i),'r',encoding='utf-8').read()
-        print(f"提取{i}")
-        bad_web_content(company_info_content)
+    

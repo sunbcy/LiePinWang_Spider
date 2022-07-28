@@ -27,9 +27,7 @@ class MysqlClient(object):
         # 从表 sexpic_url_record 查询某某列column是否存在值value
         # sql="select * from sexpic_url_record limit 1"
         # sexpic_url_record
-        sql="""select * from {} where {}='{}' limit 1;""".format(table,column,value)
-        
-        # print(sql)
+        sql="""SELECT * FROM {} WHERE {}='{}' LIMIT 1;""".format(table,column,value)
         try:
             self._cursor.execute(sql)
             result=self._cursor.fetchone()
@@ -44,19 +42,14 @@ class MysqlClient(object):
             self._db.rollback()
 
         # finally:
-            # self._db.close()
-        
+            # self._db.close()    
 
-    def get_sexurl(self):
-        # 从表 sex_url_record 中取100个未爬取过的url进行爬取
+    def get_companies_jobs_unaccessed(self):
+        # 从表 LiePinCompanyInfo 中取10个未爬取过的url进行爬取
         # return:是一个列表，中的每一项都是一个字典
-        sql="""select * from sex_url_record 
-        where crawl_status='False' 
-        and live_status!='True' 
-        and exception_status !='True'
-        and jpg_not_found!='True'
-        and jpg_not_right!='True'
-        limit 10"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
+        sql="""SELECT * FROM LiePinCompanyInfo 
+        WHERE jobs_href_accessed='False' 
+        LIMIT 10"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
         try:
             self._cursor.execute(sql)
             result=self._cursor.fetchall()
@@ -67,6 +60,22 @@ class MysqlClient(object):
         finally:
             return result
             # self._db.close()
+
+    def get_companies_no_fulllname(self):
+        # 从表 LiePinCompanyInfo 中取10个未爬取过的url进行爬取
+        # return:是一个列表，中的每一项都是一个字典
+        sql="""SELECT * FROM LiePinCompanyInfo 
+        WHERE (company_full_name='' or company_full_name is NULL)
+        LIMIT 10"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
+        try:
+            self._cursor.execute(sql)
+            result=self._cursor.fetchall()
+            self._db.commit()
+        except Exception as e:
+            print(e.args)
+            self._db.rollback()
+        finally:
+            return result
 
     def get_url(self):
         # 从表 sex_url_record 中取100个未爬取过的url进行爬取
@@ -87,21 +96,19 @@ class MysqlClient(object):
             self._db.rollback()
         finally:
             return result
-            
-    def insert_appinfo(self,app_chinese_name,app_type,app_pkgname,app_detail_url,app_samekind_ranking,app_thumbnail_url,app_type_num):
-        sql="""insert into XIAOMI_APPSTORE (app_chinese_name,app_type,app_pkgname,app_detail_url,app_samekind_ranking,app_thumbnail_url,app_type_num,update_time) VALUES ('{}', '{}', '{}','{}','{}', '{}','{}','{}')""".format(app_chinese_name,app_type,app_pkgname,app_detail_url,app_samekind_ranking,app_thumbnail_url,app_type_num,time.strftime('%Y-%m-%d %H:%M:%S'))
+         
+    def insert_basic_companyinfo(self,id,company_name,company_id,company_href,company_jobs_href,company_full_name,company_location,company_point,BusinessRegisterContentItem):
+        sql=f"""INSERT INTO LiePinCompanyInfo (id,company_name,company_id,company_href,company_jobs_href,jobs_href_accessed,company_full_name,company_location,company_point,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}','{company_id}','{company_href}','{company_jobs_href}','{"False"}','{company_full_name}','{company_location}','{escape_string(company_point)}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{time.strftime('%Y-%m-%d %H:%M:%S')}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
-            return (app_chinese_name,'插入成功!')
+            return (company_id,'插入成功!')
         except Exception as e:
-            print(e.args)
+            print('2',e.args)
             self._db.rollback()
-        # finally:
-            # self._db.close()
 
     def insert_companyinfo(self,id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime):
-        sql=f"""REPLACE INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}', '{company_full_name}','{company_location}','{BusinessRegisterContentItem}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
+        sql=f"""REPLACE INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}', '{company_full_name}','{company_location}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
@@ -110,34 +117,45 @@ class MysqlClient(object):
             print(e.args)
             self._db.rollback()
 
-    def insert_similarweb_appinfo(self,Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data):
-        sql="""insert into SimilarWeb (Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data,update_time) VALUES ('{}', '{}', '{}','{}','{}', '{}','{}','{}','{}', '{}', '{}','{}','{}', '{}','{}','{}','{}', '{}', '{}','{}','{}', '{}','{}','{}')""".format(Name,Publisher,AppIndex,AppId,AppIndexChange,StoreRank,StoreRankChange,Url,IconUrl,PopupIconUrl,Price,StorePageUrl,Category,CategoryUrl,Filter_Store,Filter_Device,Filter_Country,Filter_Category,Filter_Mode,Filter_Platform,Filter_SortBy,Filter_Uri,has_data,time.strftime('%Y-%m-%d %H:%M:%S'))
+    def insert_hotlinks(self,id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,mtime):
+        sql=f"""INSERT INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
-            return (Name,'插入成功!')
+            return (company_name,'插入成功!')
         except Exception as e:
             print(e.args)
             self._db.rollback()
-    
             
-    def update_sexurl_status(self,url,crawl_status,source_url,pic_num,live_status,exception_status,jpg_not_found,jpg_not_right):
-    #update_sexurl_status(url,crawl_status,source_url,pic_num,live_status,exception_status,jpg_not_found,jpg_not_right)
-        # pass
-        sql="""update sex_url_record 
-            set crawl_status='{}',
-            source_url='{}',
-            pic_num='{}',
-            live_status='{}',
-            exception_status='{}',
-            jpg_not_found='{}',
-            jpg_not_right='{}',
-            request_time='{}'
-            WHERE url='{}'""".format(crawl_status,source_url,pic_num,live_status,exception_status,jpg_not_found,jpg_not_right,time.strftime('%Y-%m-%d %H:%M:%S'),url)
+    # def update_basic_companyinfo(company_id,company_jobs_href,company_full_name,company_location,BusinessRegisterContentItem):
+    #     sql=f"""UPDATE LiePinCompanyInfo 
+    #         SET company_jobs_href='{company_jobs_href}',
+    #         company_location='{company_location}',
+    #         company_full_name='{company_full_name}',
+    #         BusinessRegisterContentItem='{escape_string(BusinessRegisterContentItem)}',
+    #         mtime='{time.strftime('%Y-%m-%d %H:%M:%S')}'
+    #         WHERE company_id='{company_id}'"""
+    #     try:
+    #         self._cursor.execute(sql)
+    #         self._db.commit()
+    #         return (company_id,'状态更新成功!')
+    #     except Exception as e:
+    #         print(e.args)
+    #         self._db.rollback()
+
+
+    def update_companyinfo(self,company_id,company_location,company_point,company_full_name,BusinessRegisterContentItem):
+        sql=f"""UPDATE LiePinCompanyInfo 
+            SET company_location='{company_location}',
+            company_point='{escape_string(company_point)}',
+            company_full_name='{company_full_name}',
+            BusinessRegisterContentItem='{escape_string(BusinessRegisterContentItem)}',
+            mtime='{time.strftime('%Y-%m-%d %H:%M:%S')}'
+            WHERE company_id='{company_id}'"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
-            return (url,'状态更新成功!')
+            return (company_id,'状态更新成功!')
         except Exception as e:
             print(e.args)
             self._db.rollback()
@@ -241,5 +259,6 @@ if __name__=='__main__':
     # print(db.get_sexurl())
     # print(db.insert_picurl('a','b'))
     # print(db.query_existance('sexpic_url_record','picurl','bb'))
-    print(db.get_url())
+    # print(db.query_existance('LiePinCompanyInfo','company_id','95043'))
+    print(db.get_companies_no_fulllname())
     db.close()

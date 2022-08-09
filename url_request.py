@@ -5,6 +5,7 @@ from lxml import etree
 import re
 import sys
 import time
+import json
 import random
 import pyautogui
 import socket 
@@ -129,33 +130,55 @@ def get_proxy():
         return None
 
 def url_python_request(url):
-    try:
-        res=requests.get(url,headers=headers,timeout=5,verify=True)
-        # ,proxies={'https':'https://127.0.0.1:7890'}
-        if res:
-            print('Python Requests访问 {} ing！！'.format(url))
-            res.encoding=res.apparent_encoding##将返回的网页源码转换成合适的编码
-            print('{} 状态码:{}'.format(url, res.status_code))
-            if am_I_a_bot(res.text):
-                print('本次访问被鉴定为爬虫!!')
-            else:
+    try_num=3
+    while(url and try_num):
+        try:
+            res=requests.get(url,headers=headers,timeout=5,verify=True)
+            # ,proxies={'https':'https://127.0.0.1:7890'}
+            if res:
+                print('Python Requests访问 {} ing！！'.format(url))
+                res.encoding=res.apparent_encoding##将返回的网页源码转换成合适的编码
+                print('{} 状态码:{}'.format(url, res.status_code))
+                # if am_I_a_bot(res.text):
+                #     print('本次访问被鉴定为爬虫!!')
+                # else:
                 if res.status_code == 200:
-                    if 'TXT' not in os.listdir(os.path.abspath('')):
-                        os.makedirs(os.path.join(os.path.abspath(''),'TXT'))
-                    save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','-')+'.txt')
-                    with open(save_name,'w',encoding='utf-8') as f:
-                        try:
-                            f.write(res.text)
-                        except TypeError as e:
-                            pass
+                    """保存正常的TXT网页做研究"""
+                    # if 'TXT' not in os.listdir(os.path.abspath('')):
+                    #     os.makedirs(os.path.join(os.path.abspath(''),'TXT'))
+                    # save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','-')+'.txt')
+                    # with open(save_name,'w',encoding='utf-8') as f:
+                    #     try:
+                    #         f.write(res.text)
+                    #     except TypeError as e:
+                    #         pass
                     return res.text
-    except Exception as e:
-        print('Crawling Failed', url)
-        print(e.args)
-        return None
+            try_num=0
+        except Exception as e:
+            print('Crawling Failed', url)
+            print(e.args)
+            #"""保存异常的TXT网页做研究""" 保存成纪录的形式 URL-- ID-- datetime
+            if 'TXT' not in os.listdir(os.path.abspath('')):
+                os.makedirs(os.path.join(os.path.abspath(''),'TXT'))
+            if 'Bug_logs.json' not in os.listdir(os.path.join(os.path.abspath(''),'TXT')):
+                bug_json=open(os.path.join(os.path.abspath(''),'TXT','Bug_logs.json'),'w',encoding='utf-8')
+            bug_dict={}
+            bug_time=time.strftime('%Y-%m-%d %H:%M:%S')
+            bug_company_id=(url.split('/pn')[0].split('/')[1] if '/pn' in url else url.split('/')[-2])
+            bug_url=url
+            bug_dict[bug_company_id]={'bug_url':bug_url,'bug_time':bug_time}
+            bug_json.write(json.dump(bug_dict,ensure_ascii=False,indent=2))
+            # print(time.strftime('%Y-%m-%d %H:%M:%S'),url)
+            # save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','-')+'.txt')
+            # with open(save_name,'w',encoding='utf-8') as f:
+            #     try:
+            #         f.write(res.text)
+            #     except TypeError as e:
+            #         pass
+            return None
+            try_num-=1
 
 def url_python_request_proxy(url):
-
     try:
         res=requests.get(url,headers=headers,proxy=get_proxy(),timeout=5,verify=False)
         if res:

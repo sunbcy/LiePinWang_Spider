@@ -91,7 +91,7 @@ class MysqlClient(object):
         # 从表 LiePinCompanyInfo 中取10个未爬取过的url进行爬取
         # return:是一个列表，中的每一项都是一个字典
         sql="""SELECT * FROM LiePinJobsInfo
-        WHERE (company_full_name='' or company_full_name is NULL or jobs_href_accessed='False')
+        WHERE (job_intro_content='' or job_intro_content is NULL or job_href_accessed='False')
         LIMIT 1"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
         try:
             self._cursor.execute(sql)
@@ -167,6 +167,8 @@ class MysqlClient(object):
             self._db.rollback()
         # finally:
             # self._db.close()
+
+
     def update_company_jobs_num(self,company_id,jobs_num):
         sql=f"""UPDATE LiePinCompanyInfo
             SET jobs_num='{jobs_num}',
@@ -213,27 +215,41 @@ class MysqlClient(object):
             print(e.args)
             self._db.rollback()
 
-    def update_domain_status(self,full_domain_name,title,keywords,description,
-        crawl_status,live_status,exception_status,domain_not_found,domain_type,source):
-        sql="""UPDATE DomainName 
-            SET title='{}',
-            keywords='{}',
-            description='{}',
-            crawl_status='{}',
-            live_status='{}',
-            exception_status='{}',
-            domain_not_found='{}',
-            domain_type='{}',
-            source='{}',
-            request_time='{}'
-            WHERE full_domain_name='{}'""".format(title,keywords,description,crawl_status,live_status,exception_status,domain_not_found,domain_type,source,time.strftime('%Y-%m-%d %H:%M:%S'),full_domain_name)
+    def update_company_intro(self,company_id,company_intro):
+        sql=f"""UPDATE LiePinCompanyInfo 
+            SET company_intro='{escape_string(company_intro)}',
+            mtime='{time.strftime('%Y-%m-%d %H:%M:%S')}'
+            WHERE company_id='{company_id}'"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
-            return (full_domain_name,'状态更新成功!')
+            return (company_id,'状态更新成功!')
         except Exception as e:
             print(e.args)
             self._db.rollback()
+
+
+    # def update_domain_status(self,full_domain_name,title,keywords,description,
+    #     crawl_status,live_status,exception_status,domain_not_found,domain_type,source):
+    #     sql="""UPDATE DomainName 
+    #         SET title='{}',
+    #         keywords='{}',
+    #         description='{}',
+    #         crawl_status='{}',
+    #         live_status='{}',
+    #         exception_status='{}',
+    #         domain_not_found='{}',
+    #         domain_type='{}',
+    #         source='{}',
+    #         request_time='{}'
+    #         WHERE full_domain_name='{}'""".format(title,keywords,description,crawl_status,live_status,exception_status,domain_not_found,domain_type,source,time.strftime('%Y-%m-%d %H:%M:%S'),full_domain_name)
+    #     try:
+    #         self._cursor.execute(sql)
+    #         self._db.commit()
+    #         return (full_domain_name,'状态更新成功!')
+    #     except Exception as e:
+    #         print(e.args)
+    #         self._db.rollback()
 
     def insert_jobs_info(self,job_id,job_title,job_region,job_salary,job_tags,company_name,company_id,job_info_href,job_href_accessed):
         sql=f"""INSERT INTO LiePinJobsInfo (job_id,job_title,job_region,job_salary,job_tags,company_name,company_id,job_info_href,job_href_accessed,ctime,mtime) VALUES ('{job_id}','{escape_string(job_title)}','{escape_string(job_region)}','{job_salary}','{escape_string(job_tags)}','{escape_string(company_name)}','{company_id}','{job_info_href}','{job_href_accessed}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{time.strftime('%Y-%m-%d %H:%M:%S')}')"""
@@ -245,6 +261,34 @@ class MysqlClient(object):
             print(e.args)
             self._db.rollback()
             
+    def update_company_jobs_intro(self,job_id,job_tags,job_intro_content):
+        sql=f"""UPDATE LiePinJobsInfo 
+            SET job_tags='{escape_string(job_tags)}',
+            job_intro_content='{escape_string(job_intro_content)}',
+            mtime='{time.strftime('%Y-%m-%d %H:%M:%S')}'
+            WHERE job_id='{job_id}'"""
+        try:
+            self._cursor.execute(sql)
+            self._db.commit()
+            return (job_id,'状态更新成功!')
+        except Exception as e:
+            print(e.args)
+            self._db.rollback()
+
+    def update_job_href_status(self,job_id):
+        sql=f"""UPDATE LiePinJobsInfo
+            SET job_href_accessed='{'True'}',
+            mtime='{time.strftime('%Y-%m-%d %H:%M:%S')}'
+            WHERE job_id='{job_id}'
+            """
+        try:
+            self._cursor.execute(sql)
+            self._db.commit()
+            return (job_id,'状态更新成功!')
+        except Exception as e:
+            print(e.args)
+            self._db.rollback()
+
     def close(self):
         self._db.close()
         
@@ -320,5 +364,6 @@ if __name__=='__main__':
     # print(db.query_existance('sexpic_url_record','picurl','bb'))
     # print(db.query_existance('LiePinCompanyInfo','company_id','95043'))
     # print(db.get_companies_no_fullname())
-    print(type(db.query_company_fullname_existance('LiePinCompanyInfo','10010647')))
+    # print(type(db.query_company_fullname_existance('LiePinCompanyInfo','10010647')))
+    print(db.get_jobs_no_detail())
     db.close()

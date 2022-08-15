@@ -6,9 +6,6 @@ from db_mysql import *
 import configparser
 from queue import Queue
 
-# print(config['config']['company_num'])
-# print(config['config']['job_num'])
-# quit()
 CURRENT_PATH=os.path.abspath('')
 test_txt=open(r'./TXT/www_liepin_com.txt','r',encoding='utf-8').read()
 test_txt_2=open(r'./TXT/www_liepin_comjob1948895625_shtml.txt','r',encoding='utf-8').read()
@@ -50,7 +47,6 @@ def main():
         print(f"插入{i,HomeCompany_Dict[i]}")
         #company_name company_href company_id company_jobs_href jobs_href_accessed有值
         db.insert_companyinfo(id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime)
-        # break
     config.set('config','company_num',company_num)
     config.write(open('config.ini','w'))
 
@@ -89,34 +85,41 @@ def main():
     # print(ThreeLevelHotJobsName_List)
     db.close()
 
-def second(content):
+def UPDATE_JOBS_DETAILS(job_id,content):
+    db=MysqlClient()
     html=etree.HTML(content)
     # print(html.xpath('//span[@class="job-salary"]/text()'))
-
-    # job_url=
     try:
+        job_id=job_id
         job_title=html.xpath('//div[@class="job-apply-content"]//span[@class="name ellipsis-1"]/text()')[0]
         job_salary=html.xpath('//div[@class="job-apply-content"]//span[@class="salary"]/text()')[0]
         job_properties=html.xpath('//div[@class="job-apply-content"]//div[@class="job-properties"]/span/text()')
-        comapny_url=html.xpath('//main//content//div[@class="title-box"]//span/a/@href')[0]
-        comapny_name=html.xpath('//main//content//div[@class="title-box"]//span/a/text()')[0]
+        company_url=html.xpath('//main//content//div[@class="title-box"]//span/a/@href')[0]
+        company_id=company_url.split('/')[-2]
+        company_name=html.xpath('//main//content//div[@class="title-box"]//span/a/text()')[0].split('·')[1].strip()
         job_intro_tag=html.xpath('//main//content//section[@class="job-intro-container"]//ul/li/text()')
+        job_tags=str(tuple(job_properties+job_intro_tag))
         job_intro_content=html.xpath('//main//content//dd[@data-selector="job-intro-content"]//text()')[0]
         company_intro=html.xpath('//main//content//section[@class="company-intro-container"]//div[@class="inner ellipsis-3"]/text()')[0]
-        company_label=html.xpath('//main//content//section[@class="company-intro-container"]//div[@class="inner ellipsis-3"]/text()')
+        # company_label=html.xpath('//main//content//section[@class="company-intro-container"]//div[@class="inner ellipsis-3"]/text()')
         
         print(job_title)
         print(job_salary)
-        print(job_properties)
-        print(comapny_url)
-        print(comapny_name)
-        print(job_intro_tag)
-        print(job_intro_content)
-        print(company_intro)
+        print(job_tags)
+        # print(company_url)
+        # print(company_id)
+        # print(company_name)
+        print(job_intro_content)#岗位职责/职位要求
+        print(company_intro)#公司简介
+        db.update_company_jobs_intro(job_id,job_tags,job_intro_content)
+        db.update_company_intro(company_id,company_intro)
+        
+        # print(company_label)
     except IndexError as e:
         # print(e.args)
         web_title=html.xpath('//head/title/text()')
         print(web_title)
+    db.close()
     # job=html.xpath('//div[@class="job-detail-box"]')
     # job_title=job.xpath('//div[@class="ellipsis-1"]/@title')
     # print(job_title)
@@ -168,8 +171,6 @@ def update_four_job_columns(given_company_id,content):
         print(f"跳过{web_title}")
         # print(re.findall(config_mode,head_script_config,re.S|re.M))
         # quit()
-    
-    
     db.close()
 
 
@@ -219,17 +220,7 @@ def bad_web_content(content):
     #工商信息
     BusinessRegisterContentItem=html.xpath('//div[@class="business-register-content-item"]/p[@class="text"]/text()')
     BusinessRegisterContentItem=str(BusinessRegisterContentItem)
-    # print(RecruitItem)
-    # print(RecruitItemName)
-    # print(RecruitItemSalary)
-    # print(RecruitItemInfoBox)
-    # print(RecruitItemLabelBox)
-    # print(type(BusinessRegisterContentItem))
     print(BusinessRegisterContentItem)
-    # # print(CommonHotLinksContentHref)
-    # # print(CommonHotLinksContentTitle)
-    # print(CommonHotLinks_Dicts)
-    # quit()
     try:
         #对现存的部分网页TXT中的信息录入做判断,信息不对称时SQL不要用REPLACE语句
         if db.query_existance('LiePinCompanyInfo','company_id',company_id):
@@ -264,7 +255,6 @@ def bad_web_content(content):
             db.insert_hotlinks(id,company_name,company_href,new_company_id,company_jobs_href,jobs_href_accessed,mtime)
     config.set('config','company_num',company_num)
     config.write(open('config.ini','w'))
-    
     db.close()
     
 def get_pagination(jobs_num):
@@ -277,7 +267,6 @@ def get_pagination(jobs_num):
     else:
         pagination=page_head
     return pagination,page_tail
-
 
 def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一个页面的全部职位信息并更新到数据库中
     db=MysqlClient()
@@ -292,8 +281,6 @@ def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一
     company_tags_item_list=html.xpath('//div[@class="tags-item"]/span/text()')
     
     job_detail_job_info_href=html.xpath('//a[@data-nick="job-detail-job-info"]/@href')
-    # print(len(job_detail_job_info_href))
-    # print(job_detail_job_info_href)
     # job_info_href_list收集了职位href的集合
     job_info_href_list=[i.split('?')[0] if ('?' in i) else i for i in job_detail_job_info_href ]# and 'shtml' not in i
     # if '?' in i else i.split('/')[-1].split('.')[0]
@@ -302,9 +289,6 @@ def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一
     # print(job_info_href_list)
     job_id_list=[i.split('/')[-1].split('.')[0] if 'lptjob' not in i else ('lptjob'+i.split('/')[-1]) for i in job_info_href_list]
     job_id_list=[ 'lptjob'+str(time.time()) if i.split('/')[-1]=='lptjob' else i for i in job_id_list ]
-    # print(len(job_id_list))
-    # print(job_id_list)
-    # quit()
     job_title_list=html.xpath('//div[@class="job-title-box"]/div[@class="ellipsis-1"]/text()')
     job_region_list=html.xpath('//div[@class="job-title-box"]/div[@class="job-dq-box"]/span[@class="ellipsis-1"]/text()')
     job_salary_list=html.xpath('//div[@class="job-title-box"]/../span[@class="job-salary"]/text()')
@@ -313,16 +297,8 @@ def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一
     job_tags_list=[]
     for i in job_tag:
         job_tags=etree.HTML(etree.tostring(i, method='html')).xpath('//span[@class="labels-tag"]/text()')
-        # print(tuple(job_tags))
         job_tags_list.append(tuple(job_tags))
     job_href_accessed='False'
-    # print(f"company_tags_item_list:{company_tags_item_list}")
-    # print(f"job_info_href_list:{job_info_href_list}")
-    # print(f"job_id_list:{job_id_list}")
-    # print(f"job_title_list:{job_title_list}")
-    # print(f"job_region_list:{job_region_list}")
-    # print(f"job_salary_list:{job_salary_list}")
-    # print(f"job_tags_list:{job_tags_list}")
     jobs_num=len(job_id_list)
     # print(jobs_num)
     try:
@@ -331,19 +307,8 @@ def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一
                 one_page_jobs_info[job_id_list[i]]={'job_title':job_title_list[i],'job_info_href':job_info_href_list[i],'job_region':job_region_list[i],'job_salary':job_salary_list[i],'job_tags':job_tags_list[i]}
             else:
                 one_page_jobs_info[job_id_list[i]]={'job_title':job_title_list[i],'job_info_href':('https://www.liepin.com/lptjob/'+str(job_id_list[i].split('lptjob')[-1])),'job_region':job_region_list[i],'job_salary':job_salary_list[i],'job_tags':job_tags_list[i]}
-
-            # print(i)
-            # print(job_id_list[i])
-            # print(job_title_list[i])
-            # print(job_info_href_list[i])
-            # print(job_region_list[i])
-            # print(job_salary_list[i])
-            # print(job_tags_list[i])
-            # print()
-            # break
     except IndexError as e:
         print(e.args)
-    # print(one_page_jobs_info)
     for job in one_page_jobs_info:#插入职位数据表
         job_id=job
         job_title=one_page_jobs_info[job]['job_title']
@@ -352,20 +317,10 @@ def get_job_info(given_company_name,company_id,job_web_content):#提取/pnxx/一
         job_tags=one_page_jobs_info[job]['job_tags']
         job_info_href=one_page_jobs_info[job]['job_info_href']
         job_href_accessed='False'
-        # print(job_id)
-        # print(job_title)
-        # print(job_info_href)
-        # print(job_region)
-        # print(job_salary)
-        # print(job_tags)
         try:
             db.insert_jobs_info(job_id,job_title,job_region,job_salary,str(job_tags),company_name,company_id,job_info_href,job_href_accessed)
         except TypeError as e:
             print(job_title)
-            # quit()
-    # print(one_page_jobs_info['1948553963']['job_tags'][0])
-    # quit()
-    
     db.close()
 
     #粗略获取每个公司的职位发布
@@ -411,7 +366,6 @@ def GET_JOBS_FROM_COMPANY(given_company_name,company_jobs_href,content):#获取c
         CommonHotLinksContentTitle=html.xpath('//div[@class="common-hot-links-content"]/a/@title')
         CommonHotLinks_Dict=dict(zip(CommonHotLinksContentTitle,CommonHotLinksContentHref))
         CommonHotLinks_Dicts={}
-        # print(CommonHotLinks_Dict)
         for i in CommonHotLinks_Dict:
             if 'city-' not in CommonHotLinks_Dict[i] and '/company/' in CommonHotLinks_Dict[i]:
                 CommonHotLinks_Dicts[i]=CommonHotLinks_Dict[i]
@@ -422,22 +376,6 @@ def GET_JOBS_FROM_COMPANY(given_company_name,company_jobs_href,content):#获取c
         db.update_company_jobs_num(company_id,jobs_num)
         return 'Nojobs'
     db.close()
-
-    
-    #         company_num=str(int(company_num)+1)
-    #         id=company_num
-    #         company_name=i
-    #         company_href=CommonHotLinks_Dict[i]
-    #         new_company_id=CommonHotLinks_Dict[i].split('/')[-2]
-    #         if new_company_id==company_id:
-    #             continue
-    #         company_jobs_href='https://www.liepin.com/company-jobs/'+str(new_company_id)
-    #         jobs_href_accessed='False'
-    
-    # # print(company_name)
-    # # print(tags_item)#公司的tags
-    # # print(CommonHotLinks_Dicts)
-    # db.close()
  
 if __name__ == '__main__':
     # """1 抓取首页"""
@@ -451,40 +389,57 @@ if __name__ == '__main__':
     #     bad_web_content(company_info_content)
 
     """3 抓取公司粗略的职位信息GET_JOB_FROM_COMPANY func"""
-    db=MysqlClient()
-    q=Queue(maxsize=1)#将数据库中公司信息不完整的/或者未爬取过职位的公司查询到,入队列,取出来待用!并更新LiePinCompanyInfo的爬取状态
-    while(q.qsize()==0):
-        companies_list=db.get_companies_no_fullname()
-        for i in range(len(companies_list)):#入队列
-            q.put(companies_list[i])
-        while (q.qsize()):#当队列不为空时,爬取职位填充(插入)到新的数据表LiePinJobsInfo,并将队列数量减一直至为零
-            company=q.get()
-            company_name=company['company_name']
-            print(f"队列取出 {company_name}")
-            company_jobs_href=company['company_jobs_href']
-            web_content=url_python_request(company_jobs_href)#从公司的职位首页源代码出发获取该公司的所有职位(未登录情况下的前3000个)
-            result=GET_JOBS_FROM_COMPANY(company_name,company_jobs_href,web_content)#新增30个职位以及获取n页更多的职位
-            # quit()
-            company_id=company['company_id']
-            company_href=company['company_href']
-            if db.query_company_fullname_existance('LiePinCompanyInfo',company_id):
-                pass
-            else:
-                if result=='Nojobs':
-                    db.update_fullname2None(company_id)
-                else:
-                    company_content=url_python_request(company_href)
-                    update_four_job_columns(company_id,company_content)
-            update_result=db.update_company_href_status(company_id)#将该href设为已访问
-            print(f"更新状态:{update_result}")
-            # print(q.qsize())
-            # print(q.get())#出队列并返回LiePinCompanyInfo数据表中的一条公司的数据
-            # time.sleep(1)
-    db.close()
+    # db=MysqlClient()
+    # q=Queue(maxsize=1)#将数据库中公司信息不完整的/或者未爬取过职位的公司查询到,入队列,取出来待用!并更新LiePinCompanyInfo的爬取状态
+    # while(q.qsize()==0):
+    #     companies_list=db.get_companies_no_fullname()
+    #     for i in range(len(companies_list)):#入队列
+    #         q.put(companies_list[i])
+    #     while (q.qsize()):#当队列不为空时,爬取职位填充(插入)到新的数据表LiePinJobsInfo,并将队列数量减一直至为零
+    #         company=q.get()
+    #         company_name=company['company_name']
+    #         print(f"队列取出 {company_name}")
+    #         company_jobs_href=company['company_jobs_href']
+    #         web_content=url_python_request(company_jobs_href)#从公司的职位首页源代码出发获取该公司的所有职位(未登录情况下的前3000个)
+    #         result=GET_JOBS_FROM_COMPANY(company_name,company_jobs_href,web_content)#新增30个职位以及获取n页更多的职位
+    #         # quit()
+    #         company_id=company['company_id']
+    #         company_href=company['company_href']
+    #         if db.query_company_fullname_existance('LiePinCompanyInfo',company_id):
+    #             pass
+    #         else:
+    #             if result=='Nojobs':
+    #                 db.update_fullname2None(company_id)
+    #             else:
+    #                 company_content=url_python_request(company_href)
+    #                 update_four_job_columns(company_id,company_content)
+    #         update_result=db.update_company_href_status(company_id)#将该href设为已访问
+    #         print(f"更新状态:{update_result}")
+    #         # print(q.qsize())
+    #         # print(q.get())#出队列并返回LiePinCompanyInfo数据表中的一条公司的数据
+    #         # time.sleep(1)
+    # db.close()
 
     """4 抓取公司详细的职位信息GET_JOB_FROM_COMPANY func"""
-    # q=Queue(maxsize=1)
-    # companies_job_details_list=db.get_jobs_no_detail()
+    db=MysqlClient()
+    q=Queue(maxsize=1)
+    companies_job_details_list=db.get_jobs_no_detail()
+    for i in range(len(companies_job_details_list)):#入队列
+        q.put(companies_job_details_list[i])
+    while (q.qsize()):
+        job=q.get()
+        job_id=job['job_id']
+        job_title=job['job_title']
+        company_name=job['company_name']
+        company_id=job['company_id']
+        job_info_href=job['job_info_href']
+        web_content=url_python_request(job_info_href)
+        UPDATE_JOBS_DETAILS(job_id,web_content)
+        print(job_title,' from ',company_name)
+        db.update_job_href_status(job_id)
+    db.close()
+    # content=
+    # 
 
     # second(test_txt_2)
     # bad_web_content(test_txt_3)

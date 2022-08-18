@@ -59,7 +59,7 @@ class MysqlClient(object):
         # return:是一个列表，中的每一项都是一个字典
         sql="""SELECT * FROM LiePinCompanyInfo 
         WHERE jobs_href_accessed='False' 
-        LIMIT 10"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
+        LIMIT 10"""#
         try:
             self._cursor.execute(sql)
             result=self._cursor.fetchall()
@@ -91,8 +91,8 @@ class MysqlClient(object):
         # 从表 LiePinCompanyInfo 中取10个未爬取过的url进行爬取
         # return:是一个列表，中的每一项都是一个字典
         sql="""SELECT * FROM LiePinJobsInfo
-        WHERE (job_intro_content='' or job_intro_content is NULL or job_href_accessed='False')
-        LIMIT 1"""#live_status='True' 说明已经爬取过了并确定该网站曾经活着
+        WHERE (job_intro_content='' or job_intro_content is NULL) and job_href_accessed='False'
+        LIMIT 1"""#and 'job_href_accessed'!='True'
         try:
             self._cursor.execute(sql)
             result=self._cursor.fetchall()
@@ -120,8 +120,8 @@ class MysqlClient(object):
         finally:
             return result
          
-    def insert_basic_companyinfo(self,id,company_name,company_id,company_href,company_jobs_href,company_full_name,company_location,company_point,BusinessRegisterContentItem):
-        sql=f"""INSERT INTO LiePinCompanyInfo (id,company_name,company_id,company_href,company_jobs_href,jobs_href_accessed,company_full_name,company_location,company_point,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}','{company_id}','{company_href}','{company_jobs_href}','{"False"}','{company_full_name}','{company_location}','{escape_string(company_point)}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{time.strftime('%Y-%m-%d %H:%M:%S')}')"""
+    def insert_basic_companyinfo(self,company_name,company_id,company_href,company_jobs_href,company_full_name,company_location,company_point,BusinessRegisterContentItem):
+        sql=f"""INSERT INTO LiePinCompanyInfo (company_name,company_id,company_href,company_jobs_href,jobs_href_accessed,company_full_name,company_location,company_point,BusinessRegisterContentItem,ctime,mtime) VALUES ('{escape_string(company_name)}','{company_id}','{company_href}','{company_jobs_href}','{"False"}','{company_full_name}','{company_location}','{escape_string(company_point)}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{time.strftime('%Y-%m-%d %H:%M:%S')}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
@@ -130,8 +130,8 @@ class MysqlClient(object):
             print('2',e.args)
             self._db.rollback()
 
-    def insert_companyinfo(self,id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime):
-        sql=f"""REPLACE INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}', '{company_full_name}','{company_location}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
+    def insert_companyinfo(self,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,mtime):
+        sql=f"""REPLACE INTO LiePinCompanyInfo (company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,company_full_name,company_location,BusinessRegisterContentItem,ctime,mtime) VALUES ('{escape_string(company_name)}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}', '{company_full_name}','{company_location}','{escape_string(BusinessRegisterContentItem)}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
@@ -140,14 +140,15 @@ class MysqlClient(object):
             print(e.args)
             self._db.rollback()
 
-    def insert_hotlinks(self,id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,mtime):
-        sql=f"""INSERT INTO LiePinCompanyInfo (id,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,ctime,mtime) VALUES ('{id}','{company_name}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
+    def insert_hotlinks(self,company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,mtime):
+        sql=f"""INSERT INTO LiePinCompanyInfo (company_name,company_href,company_id,company_jobs_href,jobs_href_accessed,ctime,mtime) VALUES ('{escape_string(company_name)}', '{company_href}', '{company_id}','{company_jobs_href}','{jobs_href_accessed}','{time.strftime('%Y-%m-%d %H:%M:%S')}','{mtime}')"""
         try:
             self._cursor.execute(sql)
             self._db.commit()
             return (company_name,'插入成功!')
         except Exception as e:
             print(e.args)
+            print(escape_string(company_name))
             self._db.rollback()
 
     def update_companyinfo(self,company_id,company_location,company_point,company_full_name,BusinessRegisterContentItem):

@@ -131,8 +131,9 @@ def get_proxy():
 
 def url_python_request(url):
     try_num=3
-    while(url and try_num):
+    while(url and try_num!=0):
         try:
+            # time.sleep(random_sleep(mu=2, sigma=0.4))
             res=requests.get(url,headers=headers,timeout=5,verify=True)
             # ,proxies={'https':'https://127.0.0.1:7890'}
             if res:
@@ -167,7 +168,8 @@ def url_python_request(url):
             bug_company_id=(url.split('/pn')[0].split('/')[1] if '/pn' in url else url.split('/')[-2])
             bug_url=url
             bug_dict[bug_company_id]={'bug_url':bug_url,'bug_time':bug_time}
-            bug_json.write(json.dumps(str(bug_dict),ensure_ascii=False,indent=2))
+            with open('Bug_logs.json','w',encoding='utf-8') as bug_json:
+                bug_json.write(json.dumps(str(bug_dict),ensure_ascii=False,indent=2))
             # print(time.strftime('%Y-%m-%d %H:%M:%S'),url)
             # save_name=os.path.join(os.path.abspath(''),'TXT',url.split('://')[1].replace('.','_').replace('/','-')+'.txt')
             # with open(save_name,'w',encoding='utf-8') as f:
@@ -175,8 +177,12 @@ def url_python_request(url):
             #         f.write(res.text)
             #     except TypeError as e:
             #         pass
-            return None
             try_num-=1
+            time.sleep(random_sleep(mu=2, sigma=0.4))
+            if try_num!=0:
+                pass
+            else:
+                return None
 
 def url_python_request_proxy(url):
     try:

@@ -1,0 +1,23 @@
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>猎聘安全中心</title>
+    <link rel="icon" href="//concat.lietou-static.com/fe-security-pc/v6/static/images/favicon.e6edbc00.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-security-pc/v6/css/common.5064e338.css" />
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-security-pc/v6/css/pages/main.7a1cc79f.css" />
+    <script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v5/femonitor/0.8.1/femonitor.min.3b7053e0.js"></script>
+</head>
+
+<body>
+<div id="main-container"></div>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/polyfill-vendors.a9b4184e.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/react-vendors.71a3e0ae.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/runtime.83cc0443.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/common.bb48fa3f.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/pages/main.a9c215a3.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-lib-pc/v5/tlog/tlog.min.73afc042.js"></script>
+
+</body>
+</html>
